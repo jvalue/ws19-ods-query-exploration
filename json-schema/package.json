@@ -1,0 +1,15 @@
+{
+  "name": "json-schema",
+  "version": "1.0.0",
+  "description": "Evaluation of libraries to create schema ot of different JSON sources",
+  "main": "main.js",
+  "dependencies": {
+    "to-json-schema": "^0.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
