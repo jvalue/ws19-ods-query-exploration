@@ -41,4 +41,5 @@ ___
 
 Nested json objects are ignored by this lib, which causes an incomplete schema generation
 
+Solution: The library works as intended. When checking the schema step by step it is in the right format. Issue was with trying to print it on the console.
 
