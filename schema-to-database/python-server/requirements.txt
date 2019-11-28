@@ -1,0 +1,2 @@
+JSONSchema2DB==1.0.1
+python-socketio==4.4.0  
