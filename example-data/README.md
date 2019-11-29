@@ -28,3 +28,8 @@ Queries:
 * select all speeches, remove the other information
 * query for speeches of Konstantin Kuhle (FDP)
 * query for all comments of Konstantin Kuhle (FDP) (->probably full-text query?)
+
+## 4. Public Data Inventory for the Small Business Administration of the US
+
+Data was taken from data.gov in JSON format: https://catalog.data.gov/dataset/sba-public-datasets
+
