@@ -1,1 +1,4 @@
+
 json-schema/node_modules
+schema-to-database/*/node_modules
+
