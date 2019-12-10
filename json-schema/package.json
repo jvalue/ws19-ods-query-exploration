@@ -1,0 +1,17 @@
+{
+  "name": "json-schema",
+  "version": "1.0.0",
+  "description": "Evaluation of libraries to create schema ot of different JSON sources",
+  "main": "main.js",
+  "dependencies": {
+    "socket.io": "^2.3.0",
+    "socket.io-client": "^2.3.0",
+    "to-json-schema": "^0.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
