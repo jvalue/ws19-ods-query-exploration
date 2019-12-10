@@ -36,4 +36,13 @@ https://mariadb.com/kb/en/library/installing-mariadb-msi-packages-on-windows/
 `npm install mariadb`  
 `npm install express --save`
 
+#### Functions
 
+```javascript
+function generateCreationQuery(schema)
+```
+
+Gets a json schema as parameter. 
+Right now there are to type which can be parsed:   
+`int` as int   
+`string` as VARCHAR(255)

@@ -7,8 +7,6 @@ DEBUG = 0
 
 con = psycopg2.connect('host=localhost user=sitindustries dbname=testdb')
 
-schema = json.load(open('../assets/test-schema.json'))
-
 # create a Socket.IO server
 sio = socketio.Client()
 
@@ -123,7 +121,7 @@ while(True):
         continue
 
     source = input('Enter the one of the following sources:\n "01" for pegel | "02" for crime \n-->')
-    if source != '01' and source != '02':
+    if source != '01' and source != '02' :
         print("Input wrong!")
         continue
 
