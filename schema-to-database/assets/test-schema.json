@@ -1,0 +1,20 @@
+{
+    "type": "object",
+    "properties": {
+        "uuid": { "type": "string" },
+        "number": { "type": "string", "format": "utc-millisec" },
+        "shortname": { "type": "string" },
+        "longname": { "type": "string" },
+        "km": { "type": "number" },
+        "agency": { "type": "string" },
+        "longitude": { "type": "number" },
+        "latitude": { "type": "number" },
+        "water": { 
+            "type": "object", 
+            "properties": { 
+                "shortname": { "type": "string" }, 
+                "longname": { "type": "string" } 
+            } 
+        }
+    }
+}
