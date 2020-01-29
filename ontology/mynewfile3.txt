@@ -1,0 +1,7 @@
+{
+  name: 'root',
+  children: [
+    { name: 'attributes', children: [Array] },
+    { name: 'related', children: [Array] }
+  ]
+}
