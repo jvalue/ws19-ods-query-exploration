@@ -1,0 +1,3011 @@
+{
+  "dbtplenarprotokoll": {
+    "-vertrieb": "Bundesanzeiger Verlagsgesellschaft mbH, Postfach 1 0 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de",
+    "-herstellung": "H. Heenemann GmbH  Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de",
+    "-wahlperiode": "19",
+    "-sitzung-nr": "125",
+    "-sitzung-datum": "08.11.2019",
+    "-sitzung-start-uhrzeit": "9:00",
+    "-sitzung-ende-uhrzeit": "18:58",
+    "-sitzung-naechste-datum": "13.11.2019",
+    "-start-seitennr": "15563",
+    "vorspann": {
+      "kopfdaten": {
+        "plenarprotokoll-nummer": {
+          "#text": [
+            "Plenarprotokoll ",
+            "/"
+          ],
+          "wahlperiode": "19",
+          "sitzungsnr": "125"
+        },
+        "herausgeber": "Deutscher Bundestag",
+        "berichtart": "Stenografischer Bericht",
+        "sitzungstitel": {
+          "sitzungsnr": "125",
+          "#text": ". Sitzung"
+        },
+        "veranstaltungsdaten": {
+          "ort": "Berlin",
+          "#text": ", ",
+          "datum": {
+            "-date": "08.11.2019",
+            "#text": "Freitag, den 8. November 2019"
+          }
+        }
+      },
+      "inhaltsverzeichnis": {
+        "ivz-titel": "Inhalt:",
+        "ivz-block": [
+          {
+            "ivz-block-titel": "Tagesordnungspunkt 26:",
+            "ivz-eintrag": [
+              { "ivz-eintrag-inhalt": "Vereinbarte Debatte: 30 Jahre Mauerfall" },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004021",
+                    "name": {
+                      "vorname": "Ralph",
+                      "nachname": "Brinkhaus",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Ralph Brinkhaus (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15563",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912500100",
+                  "a": {
+                    "-href": "S15563",
+                    "-typ": "druckseitennummer",
+                    "seite": "15563",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004695",
+                    "name": {
+                      "vorname": "Tino",
+                      "nachname": "Chrupalla",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Tino Chrupalla (AfD)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15565",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912500200",
+                  "a": {
+                    "-href": "S15565",
+                    "-typ": "druckseitennummer",
+                    "seite": "15565",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004686",
+                    "name": {
+                      "vorname": "Katrin",
+                      "nachname": "Budde",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Katrin Budde (SPD)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15567",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912500300",
+                  "a": {
+                    "-href": "S15567",
+                    "-typ": "druckseitennummer",
+                    "seite": "15567",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004913",
+                    "name": {
+                      "vorname": "Linda",
+                      "nachname": "Teuteberg",
+                      "fraktion": "FDP"
+                    }
+                  },
+                  "#text": "Linda Teuteberg (FDP)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15568",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912500400",
+                  "a": {
+                    "-href": "S15568",
+                    "-typ": "druckseitennummer",
+                    "seite": "15568",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11000756",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Gregor",
+                      "nachname": "Gysi",
+                      "fraktion": "DIE LINKE"
+                    }
+                  },
+                  "#text": "Dr. Gregor Gysi (DIE LINKE)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15570",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912500500",
+                  "a": {
+                    "-href": "S15570",
+                    "-typ": "druckseitennummer",
+                    "seite": "15570",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11003132",
+                    "name": {
+                      "vorname": "Katrin",
+                      "nachname": "Göring-Eckardt",
+                      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+                    }
+                  },
+                  "#text": "Katrin Göring-Eckardt (BÜNDNIS 90/DIE GRÜNEN)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15573",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912500600",
+                  "a": {
+                    "-href": "S15573",
+                    "-typ": "druckseitennummer",
+                    "seite": "15573",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11003516",
+                    "name": {
+                      "vorname": "Alexander",
+                      "nachname": "Dobrindt",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Alexander Dobrindt (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15574",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912500700",
+                  "a": {
+                    "-href": "S15574",
+                    "-typ": "druckseitennummer",
+                    "seite": "15574",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004761",
+                    "name": {
+                      "vorname": "Leif-Erik",
+                      "nachname": "Holm",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Leif-Erik Holm (AfD)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15575",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912500800",
+                  "a": {
+                    "-href": "S15575",
+                    "-typ": "druckseitennummer",
+                    "seite": "15575",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11003599",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Rolf",
+                      "nachname": "Mützenich",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Dr. Rolf Mützenich (SPD)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15577",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912500900",
+                  "a": {
+                    "-href": "S15577",
+                    "-typ": "druckseitennummer",
+                    "seite": "15577",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004830",
+                    "name": {
+                      "vorname": "Claudia",
+                      "nachname": "Müller",
+                      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+                    }
+                  },
+                  "#text": "Claudia Müller (BÜNDNIS 90/DIE GRÜNEN)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15578",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912501000",
+                  "a": {
+                    "-href": "S15578",
+                    "-typ": "druckseitennummer",
+                    "seite": "15578",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11003572",
+                    "name": {
+                      "vorname": "Michael",
+                      "nachname": "Kretschmer",
+                      "rolle": {
+                        "rolle_lang": "Ministerpräsident (Sachsen)",
+                        "rolle_kurz": "Ministerpräsident (Sachsen)"
+                      }
+                    }
+                  },
+                  "#text": "Michael Kretschmer, Ministerpräsident (Sachsen)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15579",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912501100",
+                  "a": {
+                    "-href": "S15579",
+                    "-typ": "druckseitennummer",
+                    "seite": "15579",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004768",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Marc",
+                      "nachname": "Jongen",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Dr. Marc Jongen (AfD)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15580",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912501200",
+                  "a": {
+                    "-href": "S15580",
+                    "-typ": "druckseitennummer",
+                    "seite": "15580",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11001434",
+                    "name": {
+                      "vorname": "Christoph",
+                      "nachname": "Matschie",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Christoph Matschie (SPD)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15581",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912501300",
+                  "a": {
+                    "-href": "S15581",
+                    "-typ": "druckseitennummer",
+                    "seite": "15581",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004019",
+                    "name": {
+                      "vorname": "Heike",
+                      "nachname": "Brehmer",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Heike Brehmer (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15582",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912501400",
+                  "a": {
+                    "-href": "S15582",
+                    "-typ": "druckseitennummer",
+                    "seite": "15582",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004822",
+                    "name": {
+                      "vorname": "Mario",
+                      "nachname": "Mieruch",
+                      "fraktion": "Fraktionslos"
+                    }
+                  },
+                  "#text": "Mario Mieruch (fraktionslos)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15583",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912501500",
+                  "a": {
+                    "-href": "S15583",
+                    "-typ": "druckseitennummer",
+                    "seite": "15583",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004293",
+                    "name": {
+                      "vorname": "Mark",
+                      "nachname": "Hauptmann",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Mark Hauptmann (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15584",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912501600",
+                  "a": {
+                    "-href": "S15584",
+                    "-typ": "druckseitennummer",
+                    "seite": "15584",
+                    "seitenbereich": "B"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "ivz-block-titel": "Tagesordnungspunkt 27:",
+            "ivz-eintrag": [
+              { "ivz-eintrag-inhalt": "Antrag der Abgeordneten Michael Theurer, Christian Dürr, Grigorios Aggelidis, weiterer Abgeordneter und der Fraktion der FDP: Tempo für Deutschland" },
+              {
+                "ivz-eintrag-inhalt": "Drucksache 19/14781",
+                "a": {
+                  "-href": "S15585",
+                  "-typ": "druckseitennummer",
+                  "seite": "15585",
+                  "seitenbereich": "B"
+                }
+              }
+            ]
+          },
+          {
+            "ivz-block-titel": "Zusatzpunkt 10:",
+            "ivz-eintrag": [
+              { "ivz-eintrag-inhalt": "Antrag der Abgeordneten Katharina Dröge, Dieter Janecek, Anja Hajduk, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Wirtschaft zukunftsfähig aufstellen" },
+              {
+                "ivz-eintrag-inhalt": "Drucksache 19/14825",
+                "a": {
+                  "-href": "S15585",
+                  "-typ": "druckseitennummer",
+                  "seite": "15585",
+                  "seitenbereich": "B"
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004914",
+                    "name": {
+                      "vorname": "Michael",
+                      "nachname": "Theurer",
+                      "fraktion": "FDP"
+                    }
+                  },
+                  "#text": "Michael Theurer (FDP)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15585",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912501700",
+                  "a": {
+                    "-href": "S15585",
+                    "-typ": "druckseitennummer",
+                    "seite": "15585",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004339",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Andreas",
+                      "nachname": "Lenz",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Dr. Andreas Lenz (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15586",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912501800",
+                  "a": {
+                    "-href": "S15586",
+                    "-typ": "druckseitennummer",
+                    "seite": "15586",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004757",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Christoph",
+                      "nachname": "Hoffmann",
+                      "fraktion": "FDP"
+                    }
+                  },
+                  "#text": "Dr. Christoph Hoffmann (FDP)"
+                },
+                "a": {
+                  "-href": "S15586",
+                  "-typ": "druckseitennummer",
+                  "seite": "15586",
+                  "seitenbereich": "D"
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004787",
+                    "name": {
+                      "vorname": "Enrico",
+                      "nachname": "Komning",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Enrico Komning (AfD)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15587",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912501900",
+                  "a": {
+                    "-href": "S15587",
+                    "-typ": "druckseitennummer",
+                    "seite": "15587",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004442",
+                    "name": {
+                      "vorname": "Bernd",
+                      "nachname": "Westphal",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Bernd Westphal (SPD)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15588",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912502000",
+                  "a": {
+                    "-href": "S15588",
+                    "-typ": "druckseitennummer",
+                    "seite": "15588",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11003858",
+                    "name": {
+                      "vorname": "Alexander",
+                      "nachname": "Ulrich",
+                      "fraktion": "DIE LINKE"
+                    }
+                  },
+                  "#text": "Alexander Ulrich (DIE LINKE)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15590",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912502100",
+                  "a": {
+                    "-href": "S15590",
+                    "-typ": "druckseitennummer",
+                    "seite": "15590",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004263",
+                    "name": {
+                      "vorname": "Katharina",
+                      "nachname": "Dröge",
+                      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+                    }
+                  },
+                  "#text": "Katharina Dröge (BÜNDNIS 90/DIE GRÜNEN)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15591",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912502200",
+                  "a": {
+                    "-href": "S15591",
+                    "-typ": "druckseitennummer",
+                    "seite": "15591",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004051",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Matthias",
+                      "nachname": "Heider",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Dr. Matthias Heider (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15592",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912502300",
+                  "a": {
+                    "-href": "S15592",
+                    "-typ": "druckseitennummer",
+                    "seite": "15592",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004831",
+                    "name": {
+                      "vorname": "Hansjörg",
+                      "nachname": "Müller",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Hansjörg Müller (AfD)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15594",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912502400",
+                  "a": {
+                    "-href": "S15594",
+                    "-typ": "druckseitennummer",
+                    "seite": "15594",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004393",
+                    "name": {
+                      "vorname": "Johann",
+                      "nachname": "Saathoff",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Johann Saathoff (SPD)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15594",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912502500",
+                  "a": {
+                    "-href": "S15594",
+                    "-typ": "druckseitennummer",
+                    "seite": "15594",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004902",
+                    "name": {
+                      "vorname": "Bettina",
+                      "nachname": "Stark-Watzinger",
+                      "fraktion": "FDP"
+                    }
+                  },
+                  "#text": "Bettina Stark-Watzinger (FDP)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15596",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912502600",
+                  "a": {
+                    "-href": "S15596",
+                    "-typ": "druckseitennummer",
+                    "seite": "15596",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004312",
+                    "name": {
+                      "vorname": "Dieter",
+                      "nachname": "Janecek",
+                      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+                    }
+                  },
+                  "#text": "Dieter Janecek (BÜNDNIS 90/DIE GRÜNEN)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15597",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912502700",
+                  "a": {
+                    "-href": "S15597",
+                    "-typ": "druckseitennummer",
+                    "seite": "15597",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11003264",
+                    "name": {
+                      "vorname": "Klaus-Peter",
+                      "nachname": "Willsch",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Klaus-Peter Willsch (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15598",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912502800",
+                  "a": {
+                    "-href": "S15598",
+                    "-typ": "druckseitennummer",
+                    "seite": "15598",
+                    "seitenbereich": "B"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "ivz-block-titel": "Tagesordnungspunkt 28:",
+            "ivz-eintrag": [
+              { "ivz-eintrag-inhalt": "Beschlussempfehlung und Bericht des Ausschusses für Tourismus" },
+              { "ivz-eintrag-inhalt": "– zu dem Antrag der Fraktionen der CDU/CSU und SPD: Mit nationaler Tourismusstrategie den Standort Deutschland weiter stärken" },
+              { "ivz-eintrag-inhalt": "– zu dem Antrag der Abgeordneten Markus Tressel, Stefan Schmidt, Matthias Gastel, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Nationale Tourismusstrategie fair, sozial, ökologisch und klimafreundlich gestalten" },
+              {
+                "ivz-eintrag-inhalt": "Drucksachen 19/11088, 19/11152, 19/14163",
+                "a": {
+                  "-href": "S15599",
+                  "-typ": "druckseitennummer",
+                  "seite": "15599",
+                  "seitenbereich": "C"
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11003734",
+                    "name": {
+                      "vorname": "Thomas",
+                      "nachname": "Bareiß",
+                      "rolle": {
+                        "rolle_lang": "Parl. Staatssekretär beim Bundesminister für Wirtschaft und Energie",
+                        "rolle_kurz": "Parl. Staatssekretär BMWi"
+                      }
+                    }
+                  },
+                  "#text": "Thomas Bareiß, Parl. Staatssekretär BMWi"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15599",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912502900",
+                  "a": {
+                    "-href": "S15599",
+                    "-typ": "druckseitennummer",
+                    "seite": "15599",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004836",
+                    "name": {
+                      "vorname": "Sebastian",
+                      "nachname": "Münzenmaier",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Sebastian Münzenmaier (AfD)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15601",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912503000",
+                  "a": {
+                    "-href": "S15601",
+                    "-typ": "druckseitennummer",
+                    "seite": "15601",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11003556",
+                    "name": {
+                      "vorname": "Gabriele",
+                      "nachname": "Hiller-Ohm",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Gabriele Hiller-Ohm (SPD)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15603",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912503100",
+                  "a": {
+                    "-href": "S15603",
+                    "-typ": "druckseitennummer",
+                    "seite": "15603",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004782",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Marcel",
+                      "nachname": "Klinge",
+                      "fraktion": "FDP"
+                    }
+                  },
+                  "#text": "Dr. Marcel Klinge (FDP)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15604",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912503200",
+                  "a": {
+                    "-href": "S15604",
+                    "-typ": "druckseitennummer",
+                    "seite": "15604",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004324",
+                    "name": {
+                      "vorname": "Kerstin",
+                      "nachname": "Kassner",
+                      "fraktion": "DIE LINKE"
+                    }
+                  },
+                  "#text": "Kerstin Kassner (DIE LINKE)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15605",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912503300",
+                  "a": {
+                    "-href": "S15605",
+                    "-typ": "druckseitennummer",
+                    "seite": "15605",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004178",
+                    "name": {
+                      "vorname": "Markus",
+                      "nachname": "Tressel",
+                      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+                    }
+                  },
+                  "#text": "Markus Tressel (BÜNDNIS 90/DIE GRÜNEN)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15606",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912503400",
+                  "a": {
+                    "-href": "S15606",
+                    "-typ": "druckseitennummer",
+                    "seite": "15606",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004699",
+                    "name": {
+                      "vorname": "Astrid",
+                      "nachname": "Damerow",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Astrid Damerow (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15607",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912503500",
+                  "a": {
+                    "-href": "S15607",
+                    "-typ": "druckseitennummer",
+                    "seite": "15607",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004448",
+                    "name": {
+                      "vorname": "Gülistan",
+                      "nachname": "Yüksel",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Gülistan Yüksel (SPD)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15608",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912503600",
+                  "a": {
+                    "-href": "S15608",
+                    "-typ": "druckseitennummer",
+                    "seite": "15608",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004262",
+                    "name": {
+                      "vorname": "Michael",
+                      "nachname": "Donth",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Michael Donth (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15609",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912503700",
+                  "a": {
+                    "-href": "S15609",
+                    "-typ": "druckseitennummer",
+                    "seite": "15609",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11003744",
+                    "name": {
+                      "vorname": "Martin",
+                      "nachname": "Burkert",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Martin Burkert (SPD)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15610",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912503800",
+                  "a": {
+                    "-href": "S15610",
+                    "-typ": "druckseitennummer",
+                    "seite": "15610",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004924",
+                    "name": {
+                      "vorname": "Kerstin",
+                      "nachname": "Vieregge",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Kerstin Vieregge (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15611",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912503900",
+                  "a": {
+                    "-href": "S15611",
+                    "-typ": "druckseitennummer",
+                    "seite": "15611",
+                    "seitenbereich": "C"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "ivz-block-titel": "Tagesordnungspunkt 29:",
+            "ivz-eintrag": [
+              { "ivz-eintrag-inhalt": "Antrag der Abgeordneten Kordula Schulz-Asche, Maria Klein-Schmeink, Dr. Kirsten Kappert-Gonther, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Die Pflegeversicherung verlässlich und solidarisch gestalten – Die doppelte Pflegegarantie umsetzen" },
+              {
+                "ivz-eintrag-inhalt": "Drucksache 19/14827",
+                "a": {
+                  "-href": "S15612",
+                  "-typ": "druckseitennummer",
+                  "seite": "15612",
+                  "seitenbereich": "C"
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004405",
+                    "name": {
+                      "vorname": "Kordula",
+                      "nachname": "Schulz-Asche",
+                      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+                    }
+                  },
+                  "#text": "Kordula Schulz-Asche (BÜNDNIS 90/DIE GRÜNEN)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15612",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912504000",
+                  "a": {
+                    "-href": "S15612",
+                    "-typ": "druckseitennummer",
+                    "seite": "15612",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004139",
+                    "name": {
+                      "vorname": "Erwin",
+                      "nachname": "Rüddel",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Erwin Rüddel (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15613",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912504100",
+                  "a": {
+                    "-href": "S15613",
+                    "-typ": "druckseitennummer",
+                    "seite": "15613",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004880",
+                    "name": {
+                      "vorname": "Jörg",
+                      "nachname": "Schneider",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Jörg Schneider (AfD)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15614",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912504200",
+                  "a": {
+                    "-href": "S15614",
+                    "-typ": "druckseitennummer",
+                    "seite": "15614",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004244",
+                    "name": {
+                      "vorname": "Heike",
+                      "nachname": "Baehrens",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Heike Baehrens (SPD)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15615",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912504300",
+                  "a": {
+                    "-href": "S15615",
+                    "-typ": "druckseitennummer",
+                    "seite": "15615",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004931",
+                    "name": {
+                      "vorname": "Nicole",
+                      "nachname": "Westig",
+                      "fraktion": "FDP"
+                    }
+                  },
+                  "#text": "Nicole Westig (FDP)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15616",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912504400",
+                  "a": {
+                    "-href": "S15616",
+                    "-typ": "druckseitennummer",
+                    "seite": "15616",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004186",
+                    "name": {
+                      "vorname": "Harald",
+                      "nachname": "Weinberg",
+                      "fraktion": "DIE LINKE"
+                    }
+                  },
+                  "#text": "Harald Weinberg (DIE LINKE)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15617",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912504500",
+                  "a": {
+                    "-href": "S15617",
+                    "-typ": "druckseitennummer",
+                    "seite": "15617",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004311",
+                    "name": {
+                      "vorname": "Erich",
+                      "nachname": "Irlstorfer",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Erich Irlstorfer (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15618",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912504600",
+                  "a": {
+                    "-href": "S15618",
+                    "-typ": "druckseitennummer",
+                    "seite": "15618",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004843",
+                    "name": {
+                      "vorname": "Ulrich",
+                      "nachname": "Oehme",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Ulrich Oehme (AfD)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15619",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912504700",
+                  "a": {
+                    "-href": "S15619",
+                    "-typ": "druckseitennummer",
+                    "seite": "15619",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004261",
+                    "name": {
+                      "vorname": "Sabine",
+                      "nachname": "Dittmar",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Sabine Dittmar (SPD)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15620",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912504800",
+                  "a": {
+                    "-href": "S15620",
+                    "-typ": "druckseitennummer",
+                    "seite": "15620",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004874",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Wieland",
+                      "nachname": "Schinnenburg",
+                      "fraktion": "FDP"
+                    }
+                  },
+                  "#text": "Dr. Wieland Schinnenburg (FDP)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15621",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912504900",
+                  "a": {
+                    "-href": "S15621",
+                    "-typ": "druckseitennummer",
+                    "seite": "15621",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004334",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Roy",
+                      "nachname": "Kühne",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Dr. Roy Kühne (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15622",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912505000",
+                  "a": {
+                    "-href": "S15622",
+                    "-typ": "druckseitennummer",
+                    "seite": "15622",
+                    "seitenbereich": "C"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "ivz-block-titel": "Tagesordnungspunkt 32:",
+            "ivz-eintrag": [
+              { "ivz-eintrag-inhalt": "Erste Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Gesetzes über einen nationalen Zertifikatehandel für Brennstoffemissionen (Brennstoffemissionshandelsgesetz – BEHG)" },
+              {
+                "ivz-eintrag-inhalt": "Drucksache 19/14746",
+                "a": {
+                  "-href": "S15624",
+                  "-typ": "druckseitennummer",
+                  "seite": "15624",
+                  "seitenbereich": "A"
+                }
+              }
+            ]
+          },
+          {
+            "ivz-block-titel": "Zusatzpunkt 11:",
+            "ivz-eintrag": [
+              { "ivz-eintrag-inhalt": "Antrag der Abgeordneten Dr. Lukas Köhler, Frank Sitta, Grigorios Aggelidis, weiterer Abgeordneter und der Fraktion der FDP: Klimaschutz braucht ein CO2-Limit – Klimaziele durch die Ausweitung des EU-Emissionshandels in Deutschland garantiert erreichen" },
+              {
+                "ivz-eintrag-inhalt": "Drucksache 19/14782",
+                "a": {
+                  "-href": "S15624",
+                  "-typ": "druckseitennummer",
+                  "seite": "15624",
+                  "seitenbereich": "A"
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004354",
+                    "name": {
+                      "vorname": "Klaus",
+                      "nachname": "Mindrup",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Klaus Mindrup (SPD)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15624",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912505100",
+                  "a": {
+                    "-href": "S15624",
+                    "-typ": "druckseitennummer",
+                    "seite": "15624",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004752",
+                    "name": {
+                      "vorname": "Karsten",
+                      "nachname": "Hilse",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Karsten Hilse (AfD)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15625",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912505200",
+                  "a": {
+                    "-href": "S15625",
+                    "-typ": "druckseitennummer",
+                    "seite": "15625",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004440",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Anja",
+                      "nachname": "Weisgerber",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Dr. Anja Weisgerber (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15626",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912505300",
+                  "a": {
+                    "-href": "S15626",
+                    "-typ": "druckseitennummer",
+                    "seite": "15626",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004786",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Lukas",
+                      "nachname": "Köhler",
+                      "fraktion": "FDP"
+                    }
+                  },
+                  "#text": "Dr. Lukas Köhler (FDP)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15628",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912505400",
+                  "a": {
+                    "-href": "S15628",
+                    "-typ": "druckseitennummer",
+                    "seite": "15628",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004672",
+                    "name": {
+                      "vorname": "Lorenz Gösta",
+                      "nachname": "Beutin",
+                      "fraktion": "DIE LINKE"
+                    }
+                  },
+                  "#text": "Lorenz Gösta Beutin (DIE LINKE)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15629",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912505500",
+                  "a": {
+                    "-href": "S15629",
+                    "-typ": "druckseitennummer",
+                    "seite": "15629",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004659",
+                    "name": {
+                      "vorname": "Lisa",
+                      "nachname": "Badum",
+                      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+                    }
+                  },
+                  "#text": "Lisa Badum (BÜNDNIS 90/DIE GRÜNEN)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15630",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912505600",
+                  "a": {
+                    "-href": "S15630",
+                    "-typ": "druckseitennummer",
+                    "seite": "15630",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004732",
+                    "name": {
+                      "vorname": "Timon",
+                      "nachname": "Gremmels",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Timon Gremmels (SPD)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15631",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912505700",
+                  "a": {
+                    "-href": "S15631",
+                    "-typ": "druckseitennummer",
+                    "seite": "15631",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004854",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Christoph",
+                      "nachname": "Ploß",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Dr. Christoph Ploß (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15633",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912505800",
+                  "a": {
+                    "-href": "S15633",
+                    "-typ": "druckseitennummer",
+                    "seite": "15633",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004752",
+                    "name": {
+                      "vorname": "Karsten",
+                      "nachname": "Hilse",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Karsten Hilse (AfD)"
+                },
+                "a": {
+                  "-href": "S15633",
+                  "-typ": "druckseitennummer",
+                  "seite": "15633",
+                  "seitenbereich": "B"
+                }
+              }
+            ]
+          },
+          {
+            "ivz-block-titel": "Tagesordnungspunkt 31:",
+            "ivz-eintrag": [
+              { "ivz-eintrag-inhalt": "Antrag der Abgeordneten Thomas Seitz, Johannes Huber, Andreas Bleck, weiterer Abgeordneter und der Fraktion der AfD: Bürgereingaben ernst nehmen – Änderung der Geschäftsordnung des Deutschen Bundestages – Verbindliche Regelungen für öffentliche Petitionen" },
+              {
+                "ivz-eintrag-inhalt": "Drucksache 19/14762",
+                "a": {
+                  "-href": "S15635",
+                  "-typ": "druckseitennummer",
+                  "seite": "15635",
+                  "seitenbereich": "B"
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004764",
+                    "name": {
+                      "vorname": "Johannes",
+                      "nachname": "Huber",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Johannes Huber (AfD)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15635",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912505900",
+                  "a": {
+                    "-href": "S15635",
+                    "-typ": "druckseitennummer",
+                    "seite": "15635",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11003643",
+                    "name": {
+                      "vorname": "Gero",
+                      "nachname": "Storjohann",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Gero Storjohann (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15636",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912506000",
+                  "a": {
+                    "-href": "S15636",
+                    "-typ": "druckseitennummer",
+                    "seite": "15636",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004222",
+                    "name": {
+                      "vorname": "Manfred",
+                      "nachname": "Todtenhausen",
+                      "fraktion": "FDP"
+                    }
+                  },
+                  "#text": "Manfred Todtenhausen (FDP)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15638",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912506100",
+                  "a": {
+                    "-href": "S15638",
+                    "-typ": "druckseitennummer",
+                    "seite": "15638",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004248",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Matthias",
+                      "nachname": "Bartke",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Dr. Matthias Bartke (SPD)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15639",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912506200",
+                  "a": {
+                    "-href": "S15639",
+                    "-typ": "druckseitennummer",
+                    "seite": "15639",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004907",
+                    "name": {
+                      "vorname": "Friedrich",
+                      "nachname": "Straetmanns",
+                      "fraktion": "DIE LINKE"
+                    }
+                  },
+                  "#text": "Friedrich Straetmanns (DIE LINKE)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15640",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912506300",
+                  "a": {
+                    "-href": "S15640",
+                    "-typ": "druckseitennummer",
+                    "seite": "15640",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004390",
+                    "name": {
+                      "vorname": "Corinna",
+                      "nachname": "Rüffer",
+                      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+                    }
+                  },
+                  "#text": "Corinna Rüffer (BÜNDNIS 90/DIE GRÜNEN)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15641",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912506400",
+                  "a": {
+                    "-href": "S15641",
+                    "-typ": "druckseitennummer",
+                    "seite": "15641",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004056",
+                    "name": {
+                      "vorname": "Ansgar",
+                      "nachname": "Heveling",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Ansgar Heveling (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15642",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912506500",
+                  "a": {
+                    "-href": "S15642",
+                    "-typ": "druckseitennummer",
+                    "seite": "15642",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004732",
+                    "name": {
+                      "vorname": "Timon",
+                      "nachname": "Gremmels",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Timon Gremmels (SPD)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15643",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912506600",
+                  "a": {
+                    "-href": "S15643",
+                    "-typ": "druckseitennummer",
+                    "seite": "15643",
+                    "seitenbereich": "D"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "ivz-block-titel": "Tagesordnungspunkt 30:",
+            "ivz-eintrag": [
+              { "ivz-eintrag-inhalt": "Beschlussempfehlung und Bericht des Sportausschusses zu dem Antrag der Fraktionen der CDU/CSU und SPD: Invictus Games – Das Sportereignis der versehrten Soldatinnen und Soldaten als ein deutliches Zeichen der Anerkennung und Wertschätzung nach Deutschland holen" },
+              {
+                "ivz-eintrag-inhalt": "Drucksachen 19/8262, 19/13992",
+                "a": {
+                  "-href": "S15645",
+                  "-typ": "druckseitennummer",
+                  "seite": "15645",
+                  "seitenbereich": "A"
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004174",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Peter",
+                      "nachname": "Tauber",
+                      "rolle": {
+                        "rolle_lang": "Parl. Staatssekretär bei der Bundesministerin der Verteidigung",
+                        "rolle_kurz": "Parl. Staatssekretär BMVg"
+                      }
+                    }
+                  },
+                  "#text": "Dr. Peter Tauber, Parl. Staatssekretär BMVg"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15645",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912506700",
+                  "a": {
+                    "-href": "S15645",
+                    "-typ": "druckseitennummer",
+                    "seite": "15645",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004827",
+                    "name": {
+                      "vorname": "Andreas",
+                      "nachname": "Mrosek",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Andreas Mrosek (AfD)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15646",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912506800",
+                  "a": {
+                    "-href": "S15646",
+                    "-typ": "druckseitennummer",
+                    "seite": "15646",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004387",
+                    "name": {
+                      "vorname": "Andreas",
+                      "nachname": "Rimkus",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Andreas Rimkus (SPD)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15647",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912506900",
+                  "a": {
+                    "-href": "S15647",
+                    "-typ": "druckseitennummer",
+                    "seite": "15647",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004700",
+                    "name": {
+                      "vorname": "Britta Katharina",
+                      "nachname": "Dassler",
+                      "fraktion": "FDP"
+                    }
+                  },
+                  "#text": "Britta Katharina Dassler (FDP)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15648",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912507000",
+                  "a": {
+                    "-href": "S15648",
+                    "-typ": "druckseitennummer",
+                    "seite": "15648",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004288",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "André",
+                      "nachname": "Hahn",
+                      "fraktion": "DIE LINKE"
+                    }
+                  },
+                  "#text": "Dr. André Hahn (DIE LINKE)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15648",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912507100",
+                  "a": {
+                    "-href": "S15648",
+                    "-typ": "druckseitennummer",
+                    "seite": "15648",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004217",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Tobias",
+                      "nachname": "Lindner",
+                      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+                    }
+                  },
+                  "#text": "Dr. Tobias Lindner (BÜNDNIS 90/DIE GRÜNEN)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15649",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912507200",
+                  "a": {
+                    "-href": "S15649",
+                    "-typ": "druckseitennummer",
+                    "seite": "15649",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004800",
+                    "name": {
+                      "vorname": "Jens",
+                      "nachname": "Lehmann",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Jens Lehmann (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15650",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912507300",
+                  "a": {
+                    "-href": "S15650",
+                    "-typ": "druckseitennummer",
+                    "seite": "15650",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004433",
+                    "name": {
+                      "vorname": "Dirk",
+                      "nachname": "Vöpel",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Dirk Vöpel (SPD)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15651",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912507400",
+                  "a": {
+                    "-href": "S15651",
+                    "-typ": "druckseitennummer",
+                    "seite": "15651",
+                    "seitenbereich": "B"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "ivz-block-titel": "Tagesordnungspunkt 33:",
+            "ivz-eintrag": [
+              { "ivz-eintrag-inhalt": "Beschlussempfehlung und Bericht des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung" },
+              { "ivz-eintrag-inhalt": "– zu dem Antrag der Fraktionen der CDU/CSU und SPD: Gemeinsame Initiative von Bund und Ländern zur Förderung von Schulen in benachteiligten sozialen Lagen und mit besonderen Aufgaben der Integration" },
+              { "ivz-eintrag-inhalt": "– zu dem Antrag der Abgeordneten Dr. Götz Frömming, Nicole Höchst, Dr. Marc Jongen, weiterer Abgeordneter und der Fraktion der AfD: Bildungsgerechtigkeit wiederherstellen – Leistungsgedanken stärken" },
+              { "ivz-eintrag-inhalt": "– zu dem Antrag der Abgeordneten Nicola Beer, Katja Suding, Dr. Jens Brandenburg (Rhein-Neckar), weiterer Abgeordneter und der Fraktion der FDP: Chancengerechtigkeit ernst nehmen – Leistungsfähigkeit des Bildungssystems voranbringen" },
+              { "ivz-eintrag-inhalt": "– zu dem Antrag der Abgeordneten Birke Bull-Bischoff, Dr. Petra Sitte, Doris Achelwilm, weiterer Abgeordneter und der Fraktion DIE LINKE: Für eine gemeinsame Bildungsstrategie zum Abbau sozialer Ungleichheit" },
+              { "ivz-eintrag-inhalt": "– zu dem Antrag der Abgeordneten Margit Stumpp, Kai Gehring, Beate Walter-Rosenheimer, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Nationaler Bildungsbericht 2018 – Zeit für einen bildungspolitischen Aufbruch" },
+              {
+                "ivz-eintrag-inhalt": "Drucksachen 19/7027, 19/7041, 19/7031, 19/7026, 19/4632, 19/11082",
+                "a": {
+                  "-href": "S15652",
+                  "-typ": "druckseitennummer",
+                  "seite": "15652",
+                  "seitenbereich": "B"
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11002754",
+                    "name": {
+                      "vorname": "Thomas",
+                      "nachname": "Rachel",
+                      "rolle": {
+                        "rolle_lang": "Parl. Staatssekretär bei der Bundesministerin für Bildung und Forschung",
+                        "rolle_kurz": "Parl. Staatssekretär BMBF"
+                      }
+                    }
+                  },
+                  "#text": "Thomas Rachel, Parl. Staatssekretär BMBF"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15652",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912507500",
+                  "a": {
+                    "-href": "S15652",
+                    "-typ": "druckseitennummer",
+                    "seite": "15652",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004722",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Götz",
+                      "nachname": "Frömming",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Dr. Götz Frömming (AfD)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15653",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912507600",
+                  "a": {
+                    "-href": "S15653",
+                    "-typ": "druckseitennummer",
+                    "seite": "15653",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004942",
+                    "name": {
+                      "vorname": "Marja-Liisa",
+                      "nachname": "Völlers",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Marja-Liisa Völlers (SPD)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15653",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912507700",
+                  "a": {
+                    "-href": "S15653",
+                    "-typ": "druckseitennummer",
+                    "seite": "15653",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004948",
+                    "name": {
+                      "vorname": "Peter",
+                      "nachname": "Heidt",
+                      "fraktion": "FDP"
+                    }
+                  },
+                  "#text": "Peter Heidt (FDP)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15654",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912507800",
+                  "a": {
+                    "-href": "S15654",
+                    "-typ": "druckseitennummer",
+                    "seite": "15654",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004688",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Birke",
+                      "nachname": "Bull-Bischoff",
+                      "fraktion": "DIE LINKE"
+                    }
+                  },
+                  "#text": "Dr. Birke Bull-Bischoff (DIE LINKE)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15655",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912507900",
+                  "a": {
+                    "-href": "S15655",
+                    "-typ": "druckseitennummer",
+                    "seite": "15655",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004909",
+                    "name": {
+                      "vorname": "Margit",
+                      "nachname": "Stumpp",
+                      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+                    }
+                  },
+                  "#text": "Margit Stumpp (BÜNDNIS 90/DIE GRÜNEN)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15656",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912508000",
+                  "a": {
+                    "-href": "S15656",
+                    "-typ": "druckseitennummer",
+                    "seite": "15656",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004918",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Dietlind",
+                      "nachname": "Tiemann",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Dr. Dietlind Tiemann (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15656",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912508100",
+                  "a": {
+                    "-href": "S15656",
+                    "-typ": "druckseitennummer",
+                    "seite": "15656",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004063",
+                    "name": {
+                      "vorname": "Oliver",
+                      "nachname": "Kaczmarek",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Oliver Kaczmarek (SPD)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15657",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912508200",
+                  "a": {
+                    "-href": "S15657",
+                    "-typ": "druckseitennummer",
+                    "seite": "15657",
+                    "seitenbereich": "D"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "ivz-block-titel": "Tagesordnungspunkt 34:",
+            "ivz-eintrag": [
+              { "ivz-eintrag-inhalt": "Antrag der Abgeordneten Dr. Achim Kessler, Susanne Ferschl, Matthias W. Birkwald, weiterer Abgeordneter und der Fraktion DIE LINKE: Kapitalinteressen in der Gesundheitsversorgung offenlegen" },
+              {
+                "ivz-eintrag-inhalt": "Drucksache 19/14372",
+                "a": {
+                  "-href": "S15659",
+                  "-typ": "druckseitennummer",
+                  "seite": "15659",
+                  "seitenbereich": "A"
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004776",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Achim",
+                      "nachname": "Kessler",
+                      "fraktion": "DIE LINKE"
+                    }
+                  },
+                  "#text": "Dr. Achim Kessler (DIE LINKE)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15659",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912508300",
+                  "a": {
+                    "-href": "S15659",
+                    "-typ": "druckseitennummer",
+                    "seite": "15659",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004793",
+                    "name": {
+                      "vorname": "Alexander",
+                      "nachname": "Krauß",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Alexander Krauß (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15660",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912508400",
+                  "a": {
+                    "-href": "S15660",
+                    "-typ": "druckseitennummer",
+                    "seite": "15660",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004898",
+                    "name": {
+                      "vorname": "Detlev",
+                      "nachname": "Spangenberg",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Detlev Spangenberg (AfD)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15661",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912508500",
+                  "a": {
+                    "-href": "S15661",
+                    "-typ": "druckseitennummer",
+                    "seite": "15661",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004358",
+                    "name": {
+                      "vorname": "Bettina",
+                      "nachname": "Müller",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Bettina Müller (SPD)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15662",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912508600",
+                  "a": {
+                    "-href": "S15662",
+                    "-typ": "druckseitennummer",
+                    "seite": "15662",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004003",
+                    "name": {
+                      "vorname": "Christine",
+                      "nachname": "Aschenberg-Dugnus",
+                      "fraktion": "FDP"
+                    }
+                  },
+                  "#text": "Christine Aschenberg-Dugnus (FDP)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15663",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912508700",
+                  "a": {
+                    "-href": "S15663",
+                    "-typ": "druckseitennummer",
+                    "seite": "15663",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004773",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Kirsten",
+                      "nachname": "Kappert-Gonther",
+                      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+                    }
+                  },
+                  "#text": "Dr. Kirsten Kappert-Gonther (BÜNDNIS 90/DIE GRÜNEN)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15664",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912508800",
+                  "a": {
+                    "-href": "S15664",
+                    "-typ": "druckseitennummer",
+                    "seite": "15664",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004139",
+                    "name": {
+                      "vorname": "Erwin",
+                      "nachname": "Rüddel",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Erwin Rüddel (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15664",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912508900",
+                  "a": {
+                    "-href": "S15664",
+                    "-typ": "druckseitennummer",
+                    "seite": "15664",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004295",
+                    "name": {
+                      "vorname": "Dirk",
+                      "nachname": "Heidenblut",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Dirk Heidenblut (SPD)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15665",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912509000",
+                  "a": {
+                    "-href": "S15665",
+                    "-typ": "druckseitennummer",
+                    "seite": "15665",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004311",
+                    "name": {
+                      "vorname": "Erich",
+                      "nachname": "Irlstorfer",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Erich Irlstorfer (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15666",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912509100",
+                  "a": {
+                    "-href": "S15666",
+                    "-typ": "druckseitennummer",
+                    "seite": "15666",
+                    "seitenbereich": "C"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "ivz-block-titel": "Zusatzpunkt 12:",
+            "ivz-eintrag": [
+              { "ivz-eintrag-inhalt": "Aktuelle Stunde auf Verlangen der Fraktion der FDP: Durchsetzung des Rechtsstaats im Fall Ibrahim Miri" },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004023",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Marco",
+                      "nachname": "Buschmann",
+                      "fraktion": "FDP"
+                    }
+                  },
+                  "#text": "Dr. Marco Buschmann (FDP)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15667",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912509200",
+                  "a": {
+                    "-href": "S15667",
+                    "-typ": "druckseitennummer",
+                    "seite": "15667",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11002140",
+                    "name": {
+                      "vorname": "Horst",
+                      "nachname": "Seehofer",
+                      "rolle": {
+                        "rolle_lang": "Bundesminister des Innern, für Bau und Heimat",
+                        "rolle_kurz": "Bundesminister BMI"
+                      }
+                    }
+                  },
+                  "#text": "Horst Seehofer, Bundesminister BMI"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15668",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912509300",
+                  "a": {
+                    "-href": "S15668",
+                    "-typ": "druckseitennummer",
+                    "seite": "15668",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004662",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Bernd",
+                      "nachname": "Baumann",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Dr. Bernd Baumann (AfD)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15671",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912509400",
+                  "a": {
+                    "-href": "S15671",
+                    "-typ": "druckseitennummer",
+                    "seite": "15671",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11003896",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Eva",
+                      "nachname": "Högl",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Dr. Eva Högl (SPD)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15672",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912509500",
+                  "a": {
+                    "-href": "S15672",
+                    "-typ": "druckseitennummer",
+                    "seite": "15672",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004907",
+                    "name": {
+                      "vorname": "Friedrich",
+                      "nachname": "Straetmanns",
+                      "fraktion": "DIE LINKE"
+                    }
+                  },
+                  "#text": "Friedrich Straetmanns (DIE LINKE)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15673",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912509600",
+                  "a": {
+                    "-href": "S15673",
+                    "-typ": "druckseitennummer",
+                    "seite": "15673",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004123",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Konstantin",
+                      "nachname": "von Notz",
+                      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+                    }
+                  },
+                  "#text": "Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15674",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912509700",
+                  "a": {
+                    "-href": "S15674",
+                    "-typ": "druckseitennummer",
+                    "seite": "15674",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004276",
+                    "name": {
+                      "vorname": "Thorsten",
+                      "nachname": "Frei",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Thorsten Frei (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15676",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912509800",
+                  "a": {
+                    "-href": "S15676",
+                    "-typ": "druckseitennummer",
+                    "seite": "15676",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004749",
+                    "name": {
+                      "vorname": "Martin",
+                      "nachname": "Hess",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Martin Hess (AfD)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15677",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912509900",
+                  "a": {
+                    "-href": "S15677",
+                    "-typ": "druckseitennummer",
+                    "seite": "15677",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11002823",
+                    "name": {
+                      "vorname": "Ute",
+                      "nachname": "Vogt",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Ute Vogt (SPD)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15679",
+                  "-ref-type": "rede",
+                  "-rid": "ID19125010000",
+                  "a": {
+                    "-href": "S15679",
+                    "-typ": "druckseitennummer",
+                    "seite": "15679",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004796",
+                    "name": {
+                      "vorname": "Konstantin",
+                      "nachname": "Kuhle",
+                      "fraktion": "FDP"
+                    }
+                  },
+                  "#text": "Konstantin Kuhle (FDP)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15680",
+                  "-ref-type": "rede",
+                  "-rid": "ID19125010100",
+                  "a": {
+                    "-href": "S15680",
+                    "-typ": "druckseitennummer",
+                    "seite": "15680",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004149",
+                    "name": {
+                      "vorname": "Armin",
+                      "nachname": "Schuster",
+                      "ortszusatz": "(Weil am Rhein)",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Armin Schuster (Weil am Rhein) (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15681",
+                  "-ref-type": "rede",
+                  "-rid": "ID19125010200",
+                  "a": {
+                    "-href": "S15681",
+                    "-typ": "druckseitennummer",
+                    "seite": "15681",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004802",
+                    "name": {
+                      "vorname": "Helge",
+                      "nachname": "Lindh",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Helge Lindh (SPD)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15682",
+                  "-ref-type": "rede",
+                  "-rid": "ID19125010300",
+                  "a": {
+                    "-href": "S15682",
+                    "-typ": "druckseitennummer",
+                    "seite": "15682",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004795",
+                    "name": {
+                      "vorname": "Michael",
+                      "nachname": "Kuffer",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Michael Kuffer (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15684",
+                  "-ref-type": "rede",
+                  "-rid": "ID19125010400",
+                  "a": {
+                    "-href": "S15684",
+                    "-typ": "druckseitennummer",
+                    "seite": "15684",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004917",
+                    "name": {
+                      "vorname": "Alexander",
+                      "nachname": "Throm",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Alexander Throm (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15685",
+                  "-ref-type": "rede",
+                  "-rid": "ID19125010500",
+                  "a": {
+                    "-href": "S15685",
+                    "-typ": "druckseitennummer",
+                    "seite": "15685",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": "Nächste Sitzung",
+                "a": {
+                  "-href": "S15686",
+                  "-typ": "druckseitennummer",
+                  "seite": "15686",
+                  "seitenbereich": "D"
+                }
+              }
+            ]
+          },
+          {
+            "ivz-block-titel": "Anlage 1",
+            "ivz-eintrag": {
+              "ivz-eintrag-inhalt": "Entschuldigte Abgeordnete",
+              "a": {
+                "-href": "S15687",
+                "-typ": "druckseitennummer",
+                "seite": "15687",
+                "seitenbereich": "A"
+              }
+            }
+          },
+          {
+            "ivz-block-titel": "Anlage 2",
+            "ivz-eintrag": {
+              "ivz-eintrag-inhalt": "Amtliche Mitteilungen",
+              "a": {
+                "-href": "S15688",
+                "-typ": "druckseitennummer",
+                "seite": "15688",
+                "seitenbereich": "A"
+              }
+            }
+          }
+        ],
+        "ivz-eintrag": [
+          { "ivz-eintrag-inhalt": "in Verbindung mit" },
+          { "ivz-eintrag-inhalt": "in Verbindung mit" }
+        ]
+      }
+    },
+    "sitzungsverlauf": {
+      "sitzungsbeginn": {
+        "-sitzung-start-uhrzeit": "9.00",
+        "name": "Präsident Dr. Wolfgang Schäuble:",
+        "p": {
+          "-klasse": "J_1",
+          "#text": "Guten Morgen, liebe Kolleginnen und Kollegen! Bitte nehmen Sie Platz. Die Sitzung ist eröffnet."
+        }
+      },
+      "tagesordnungspunkt": [
+        {
+          "-top-id": "Tagesordnungspunkt 26",
+          "p": [
+            {
+              "-klasse": "J",
+              "#text": "Ich rufe Tagesordnungspunkt 26 auf:"
+            },
+            {
+              "-klasse": "T_NaS",
+              "#text": "Vereinbarte Debatte"
+            },
+            {
+              "-klasse": "T_fett",
+              "#text": "30 Jahre Mauerfall"
+            },
+            {
+              "-klasse": "J",
+              "#text": "Nach einer interfraktionellen Vereinbarung sind für die Aussprache 90 Minuten vorgesehen. – Ich höre keinen Widerspruch. Dann ist das so beschlossen."
+            },
+            {
+              "-klasse": "J",
+              "#text": "Ich eröffne die Aussprache und erteile das Wort dem Vorsitzenden der CDU/CSU-Fraktion, Ralph Brinkhaus."
+            }
+          ],
+          "kommentar": "(Beifall bei der CDU/CSU)",
+          "rede": [
+            {
+              "-id": "ID1912500100",
+              "p": [
+                {
+                  "-klasse": "redner",
+                  "redner": {
+                    "-id": "11004021",
+                    "name": {
+                      "vorname": "Ralph",
+                      "nachname": "Brinkhaus",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Ralph Brinkhaus (CDU/CSU):"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
