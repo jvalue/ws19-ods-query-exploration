@@ -51,7 +51,6 @@ The following shows the desired JSON representation for the ontology :
         { "name": "ID", "value": "number" },
         { "name": "uuid", "value": "string" },
         { "name": "number", "value": "string" },
-            ...
       ]
     },
     {
@@ -65,7 +64,6 @@ The following shows the desired JSON representation for the ontology :
               "children": [
                 { "name": "ID", "value": "number" },
                 { "name": "example_rootId", "value": "number" },
-                    ...
               ]
             },
             { "name": "related", "children": [] }
@@ -88,6 +86,61 @@ To visualize the JSON ontology a library called Echarts has been used.
 # Implementation
 
 ## main.js
+
+```javascript
+function extractOntologyFromObject(rootNode, data)
+```
+
+A recursive funtion which iterates through the given data, where it creates an ontology as described above. Every new recursive call adds a node to the rootNode and will be treated as the new rootNode.
+
+- rootNode: <br/>
+  Is created by the function `generateRootNode` and contains the root node of the ontology object
+- data: <br/>
+  The current part of the JSON object
+
+---
+
+```javascript
+function generateRootNode(rootName)
+```
+
+Generates a root node which is used later on in the `extractOntologyFromObject` function.
+
+- rootName: <br/>
+  Name of the root of the ontology object
+
+Example root node:
+
+```JSON
+{
+  "name": "example_root",
+  "children": [
+    {
+      "name": "attributes",
+      "children": [
+        {
+          "name": "ID",
+          "value": "number"
+        }
+      ]
+    },
+    {
+      "name": "related",
+      "children": []
+    }
+  ]
+}
+```
+
+---
+
+```javascript
+function ontologyToPGQuery(graph)
+```
+
+```javascript
+function createQuery(graph, schemaName, flag)
+```
 
 ## query.js
 
