@@ -20,6 +20,8 @@ On top of the created PostgreSQL schema is a query interface needed, which can b
 
 `npm i`
 
+---
+
 ### PostgreSQL
 
 A PostgreSQL installation is mandatory for this project.
@@ -27,6 +29,8 @@ A PostgreSQL installation is mandatory for this project.
 Visit [here](https://www.postgresql.org/docs/12/installation.html) to get infromations for the installation of PostgreSQL.
 
 The project uses mainly all environment variables. The only exception is the database. Therefore a database needs to be created to ensure the usability of the project.
+
+---
 
 ### Postgraphile API
 
@@ -73,15 +77,17 @@ The following shows the desired JSON representation for the ontology :
     }
   ]
 }
-
 ```
 
 ### 2. Visualization
 
 To visualize the JSON ontology a library called Echarts has been used.
+
 <br/>
 
 ![](ontology.png)
+
+For a one-time visualization this [example](https://echarts.apache.org/examples/en/editor.html?c=tree-polyline) was used from Echart.
 
 # Implementation
 
@@ -231,3 +237,11 @@ The following command starts the postgraphile API. As so a service starts on the
 
 - database_name
 - the name of the database created in the prerequisites should be used here
+
+# TODOs
+
+- Test more JSON formats to improve the algorithm
+- JSON data of Bundestag can not be parsed by now
+- Special characters needs to be parsed to be able to create PostgreSQL schema
+- More support for different databases
+- Service implementation for the postgraphile API
