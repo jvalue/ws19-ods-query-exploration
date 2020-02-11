@@ -13,7 +13,7 @@ const pool = mariadb.createPool({
   connectionLimit: 5
 });
 
-const schema = GenerateSchema.mysql("Crime", jsonCrime[0]);
+const schema = GenerateSchema.mysql("SBA", jsonSba.dataset[0]);
 
 function generateQuery(schema) {
   const queryArray = schema.split("\n");
@@ -31,7 +31,7 @@ function generateQuery(schema) {
     }
   });
 
-  return new Promise(function(resolve) {
+  return new Promise(function (resolve) {
     resolve(queryString);
   });
 }

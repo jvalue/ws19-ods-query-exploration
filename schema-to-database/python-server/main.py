@@ -6,7 +6,7 @@ import json
 
 DEBUG = 0
 
-con = psycopg2.connect('host=localhost user=sitindustries dbname=testdb')
+con = psycopg2.connect('host=localhost user=root dbname=testdb')
 
 # create a Socket.IO server
 sio = socketio.Client()
