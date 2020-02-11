@@ -1,0 +1,3984 @@
+{
+  "dbtplenarprotokoll": {
+    "-vertrieb": "Bundesanzeiger Verlagsgesellschaft mbH, Postfach 1 0 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de",
+    "-herstellung": "H. Heenemann GmbH  Co. KG, Buch- und Offsetdruckerei, Bessemerstraße 83–91, 12103 Berlin, www.heenemann-druck.de",
+    "-wahlperiode": "19",
+    "-sitzung-nr": "125",
+    "-sitzung-datum": "08.11.2019",
+    "-sitzung-start-uhrzeit": "9:00",
+    "-sitzung-ende-uhrzeit": "18:58",
+    "-sitzung-naechste-datum": "13.11.2019",
+    "-start-seitennr": "15563",
+    "vorspann": {
+      "kopfdaten": {
+        "plenarprotokoll-nummer": {
+          "#text": [
+            "Plenarprotokoll ",
+            "/"
+          ],
+          "wahlperiode": "19",
+          "sitzungsnr": "125"
+        },
+        "herausgeber": "Deutscher Bundestag",
+        "berichtart": "Stenografischer Bericht",
+        "sitzungstitel": {
+          "sitzungsnr": "125",
+          "#text": ". Sitzung"
+        },
+        "veranstaltungsdaten": {
+          "ort": "Berlin",
+          "#text": ", ",
+          "datum": {
+            "-date": "08.11.2019",
+            "#text": "Freitag, den 8. November 2019"
+          }
+        }
+      },
+      "inhaltsverzeichnis": {
+        "ivz-titel": "Inhalt:",
+        "ivz-block": [
+          {
+            "ivz-block-titel": "Tagesordnungspunkt 26:",
+            "ivz-eintrag": [
+              { "ivz-eintrag-inhalt": "Vereinbarte Debatte: 30 Jahre Mauerfall" },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004021",
+                    "name": {
+                      "vorname": "Ralph",
+                      "nachname": "Brinkhaus",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Ralph Brinkhaus (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15563",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912500100",
+                  "a": {
+                    "-href": "S15563",
+                    "-typ": "druckseitennummer",
+                    "seite": "15563",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004695",
+                    "name": {
+                      "vorname": "Tino",
+                      "nachname": "Chrupalla",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Tino Chrupalla (AfD)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15565",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912500200",
+                  "a": {
+                    "-href": "S15565",
+                    "-typ": "druckseitennummer",
+                    "seite": "15565",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004686",
+                    "name": {
+                      "vorname": "Katrin",
+                      "nachname": "Budde",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Katrin Budde (SPD)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15567",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912500300",
+                  "a": {
+                    "-href": "S15567",
+                    "-typ": "druckseitennummer",
+                    "seite": "15567",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004913",
+                    "name": {
+                      "vorname": "Linda",
+                      "nachname": "Teuteberg",
+                      "fraktion": "FDP"
+                    }
+                  },
+                  "#text": "Linda Teuteberg (FDP)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15568",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912500400",
+                  "a": {
+                    "-href": "S15568",
+                    "-typ": "druckseitennummer",
+                    "seite": "15568",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11000756",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Gregor",
+                      "nachname": "Gysi",
+                      "fraktion": "DIE LINKE"
+                    }
+                  },
+                  "#text": "Dr. Gregor Gysi (DIE LINKE)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15570",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912500500",
+                  "a": {
+                    "-href": "S15570",
+                    "-typ": "druckseitennummer",
+                    "seite": "15570",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11003132",
+                    "name": {
+                      "vorname": "Katrin",
+                      "nachname": "Göring-Eckardt",
+                      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+                    }
+                  },
+                  "#text": "Katrin Göring-Eckardt (BÜNDNIS 90/DIE GRÜNEN)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15573",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912500600",
+                  "a": {
+                    "-href": "S15573",
+                    "-typ": "druckseitennummer",
+                    "seite": "15573",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11003516",
+                    "name": {
+                      "vorname": "Alexander",
+                      "nachname": "Dobrindt",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Alexander Dobrindt (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15574",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912500700",
+                  "a": {
+                    "-href": "S15574",
+                    "-typ": "druckseitennummer",
+                    "seite": "15574",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004761",
+                    "name": {
+                      "vorname": "Leif-Erik",
+                      "nachname": "Holm",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Leif-Erik Holm (AfD)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15575",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912500800",
+                  "a": {
+                    "-href": "S15575",
+                    "-typ": "druckseitennummer",
+                    "seite": "15575",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11003599",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Rolf",
+                      "nachname": "Mützenich",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Dr. Rolf Mützenich (SPD)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15577",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912500900",
+                  "a": {
+                    "-href": "S15577",
+                    "-typ": "druckseitennummer",
+                    "seite": "15577",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004830",
+                    "name": {
+                      "vorname": "Claudia",
+                      "nachname": "Müller",
+                      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+                    }
+                  },
+                  "#text": "Claudia Müller (BÜNDNIS 90/DIE GRÜNEN)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15578",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912501000",
+                  "a": {
+                    "-href": "S15578",
+                    "-typ": "druckseitennummer",
+                    "seite": "15578",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11003572",
+                    "name": {
+                      "vorname": "Michael",
+                      "nachname": "Kretschmer",
+                      "rolle": {
+                        "rolle_lang": "Ministerpräsident (Sachsen)",
+                        "rolle_kurz": "Ministerpräsident (Sachsen)"
+                      }
+                    }
+                  },
+                  "#text": "Michael Kretschmer, Ministerpräsident (Sachsen)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15579",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912501100",
+                  "a": {
+                    "-href": "S15579",
+                    "-typ": "druckseitennummer",
+                    "seite": "15579",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004768",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Marc",
+                      "nachname": "Jongen",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Dr. Marc Jongen (AfD)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15580",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912501200",
+                  "a": {
+                    "-href": "S15580",
+                    "-typ": "druckseitennummer",
+                    "seite": "15580",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11001434",
+                    "name": {
+                      "vorname": "Christoph",
+                      "nachname": "Matschie",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Christoph Matschie (SPD)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15581",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912501300",
+                  "a": {
+                    "-href": "S15581",
+                    "-typ": "druckseitennummer",
+                    "seite": "15581",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004019",
+                    "name": {
+                      "vorname": "Heike",
+                      "nachname": "Brehmer",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Heike Brehmer (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15582",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912501400",
+                  "a": {
+                    "-href": "S15582",
+                    "-typ": "druckseitennummer",
+                    "seite": "15582",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004822",
+                    "name": {
+                      "vorname": "Mario",
+                      "nachname": "Mieruch",
+                      "fraktion": "Fraktionslos"
+                    }
+                  },
+                  "#text": "Mario Mieruch (fraktionslos)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15583",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912501500",
+                  "a": {
+                    "-href": "S15583",
+                    "-typ": "druckseitennummer",
+                    "seite": "15583",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004293",
+                    "name": {
+                      "vorname": "Mark",
+                      "nachname": "Hauptmann",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Mark Hauptmann (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15584",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912501600",
+                  "a": {
+                    "-href": "S15584",
+                    "-typ": "druckseitennummer",
+                    "seite": "15584",
+                    "seitenbereich": "B"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "ivz-block-titel": "Tagesordnungspunkt 27:",
+            "ivz-eintrag": [
+              { "ivz-eintrag-inhalt": "Antrag der Abgeordneten Michael Theurer, Christian Dürr, Grigorios Aggelidis, weiterer Abgeordneter und der Fraktion der FDP: Tempo für Deutschland" },
+              {
+                "ivz-eintrag-inhalt": "Drucksache 19/14781",
+                "a": {
+                  "-href": "S15585",
+                  "-typ": "druckseitennummer",
+                  "seite": "15585",
+                  "seitenbereich": "B"
+                }
+              }
+            ]
+          },
+          {
+            "ivz-block-titel": "Zusatzpunkt 10:",
+            "ivz-eintrag": [
+              { "ivz-eintrag-inhalt": "Antrag der Abgeordneten Katharina Dröge, Dieter Janecek, Anja Hajduk, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Wirtschaft zukunftsfähig aufstellen" },
+              {
+                "ivz-eintrag-inhalt": "Drucksache 19/14825",
+                "a": {
+                  "-href": "S15585",
+                  "-typ": "druckseitennummer",
+                  "seite": "15585",
+                  "seitenbereich": "B"
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004914",
+                    "name": {
+                      "vorname": "Michael",
+                      "nachname": "Theurer",
+                      "fraktion": "FDP"
+                    }
+                  },
+                  "#text": "Michael Theurer (FDP)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15585",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912501700",
+                  "a": {
+                    "-href": "S15585",
+                    "-typ": "druckseitennummer",
+                    "seite": "15585",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004339",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Andreas",
+                      "nachname": "Lenz",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Dr. Andreas Lenz (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15586",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912501800",
+                  "a": {
+                    "-href": "S15586",
+                    "-typ": "druckseitennummer",
+                    "seite": "15586",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004757",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Christoph",
+                      "nachname": "Hoffmann",
+                      "fraktion": "FDP"
+                    }
+                  },
+                  "#text": "Dr. Christoph Hoffmann (FDP)"
+                },
+                "a": {
+                  "-href": "S15586",
+                  "-typ": "druckseitennummer",
+                  "seite": "15586",
+                  "seitenbereich": "D"
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004787",
+                    "name": {
+                      "vorname": "Enrico",
+                      "nachname": "Komning",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Enrico Komning (AfD)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15587",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912501900",
+                  "a": {
+                    "-href": "S15587",
+                    "-typ": "druckseitennummer",
+                    "seite": "15587",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004442",
+                    "name": {
+                      "vorname": "Bernd",
+                      "nachname": "Westphal",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Bernd Westphal (SPD)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15588",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912502000",
+                  "a": {
+                    "-href": "S15588",
+                    "-typ": "druckseitennummer",
+                    "seite": "15588",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11003858",
+                    "name": {
+                      "vorname": "Alexander",
+                      "nachname": "Ulrich",
+                      "fraktion": "DIE LINKE"
+                    }
+                  },
+                  "#text": "Alexander Ulrich (DIE LINKE)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15590",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912502100",
+                  "a": {
+                    "-href": "S15590",
+                    "-typ": "druckseitennummer",
+                    "seite": "15590",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004263",
+                    "name": {
+                      "vorname": "Katharina",
+                      "nachname": "Dröge",
+                      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+                    }
+                  },
+                  "#text": "Katharina Dröge (BÜNDNIS 90/DIE GRÜNEN)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15591",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912502200",
+                  "a": {
+                    "-href": "S15591",
+                    "-typ": "druckseitennummer",
+                    "seite": "15591",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004051",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Matthias",
+                      "nachname": "Heider",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Dr. Matthias Heider (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15592",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912502300",
+                  "a": {
+                    "-href": "S15592",
+                    "-typ": "druckseitennummer",
+                    "seite": "15592",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004831",
+                    "name": {
+                      "vorname": "Hansjörg",
+                      "nachname": "Müller",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Hansjörg Müller (AfD)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15594",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912502400",
+                  "a": {
+                    "-href": "S15594",
+                    "-typ": "druckseitennummer",
+                    "seite": "15594",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004393",
+                    "name": {
+                      "vorname": "Johann",
+                      "nachname": "Saathoff",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Johann Saathoff (SPD)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15594",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912502500",
+                  "a": {
+                    "-href": "S15594",
+                    "-typ": "druckseitennummer",
+                    "seite": "15594",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004902",
+                    "name": {
+                      "vorname": "Bettina",
+                      "nachname": "Stark-Watzinger",
+                      "fraktion": "FDP"
+                    }
+                  },
+                  "#text": "Bettina Stark-Watzinger (FDP)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15596",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912502600",
+                  "a": {
+                    "-href": "S15596",
+                    "-typ": "druckseitennummer",
+                    "seite": "15596",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004312",
+                    "name": {
+                      "vorname": "Dieter",
+                      "nachname": "Janecek",
+                      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+                    }
+                  },
+                  "#text": "Dieter Janecek (BÜNDNIS 90/DIE GRÜNEN)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15597",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912502700",
+                  "a": {
+                    "-href": "S15597",
+                    "-typ": "druckseitennummer",
+                    "seite": "15597",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11003264",
+                    "name": {
+                      "vorname": "Klaus-Peter",
+                      "nachname": "Willsch",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Klaus-Peter Willsch (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15598",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912502800",
+                  "a": {
+                    "-href": "S15598",
+                    "-typ": "druckseitennummer",
+                    "seite": "15598",
+                    "seitenbereich": "B"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "ivz-block-titel": "Tagesordnungspunkt 28:",
+            "ivz-eintrag": [
+              { "ivz-eintrag-inhalt": "Beschlussempfehlung und Bericht des Ausschusses für Tourismus" },
+              { "ivz-eintrag-inhalt": "– zu dem Antrag der Fraktionen der CDU/CSU und SPD: Mit nationaler Tourismusstrategie den Standort Deutschland weiter stärken" },
+              { "ivz-eintrag-inhalt": "– zu dem Antrag der Abgeordneten Markus Tressel, Stefan Schmidt, Matthias Gastel, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Nationale Tourismusstrategie fair, sozial, ökologisch und klimafreundlich gestalten" },
+              {
+                "ivz-eintrag-inhalt": "Drucksachen 19/11088, 19/11152, 19/14163",
+                "a": {
+                  "-href": "S15599",
+                  "-typ": "druckseitennummer",
+                  "seite": "15599",
+                  "seitenbereich": "C"
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11003734",
+                    "name": {
+                      "vorname": "Thomas",
+                      "nachname": "Bareiß",
+                      "rolle": {
+                        "rolle_lang": "Parl. Staatssekretär beim Bundesminister für Wirtschaft und Energie",
+                        "rolle_kurz": "Parl. Staatssekretär BMWi"
+                      }
+                    }
+                  },
+                  "#text": "Thomas Bareiß, Parl. Staatssekretär BMWi"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15599",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912502900",
+                  "a": {
+                    "-href": "S15599",
+                    "-typ": "druckseitennummer",
+                    "seite": "15599",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004836",
+                    "name": {
+                      "vorname": "Sebastian",
+                      "nachname": "Münzenmaier",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Sebastian Münzenmaier (AfD)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15601",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912503000",
+                  "a": {
+                    "-href": "S15601",
+                    "-typ": "druckseitennummer",
+                    "seite": "15601",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11003556",
+                    "name": {
+                      "vorname": "Gabriele",
+                      "nachname": "Hiller-Ohm",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Gabriele Hiller-Ohm (SPD)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15603",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912503100",
+                  "a": {
+                    "-href": "S15603",
+                    "-typ": "druckseitennummer",
+                    "seite": "15603",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004782",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Marcel",
+                      "nachname": "Klinge",
+                      "fraktion": "FDP"
+                    }
+                  },
+                  "#text": "Dr. Marcel Klinge (FDP)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15604",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912503200",
+                  "a": {
+                    "-href": "S15604",
+                    "-typ": "druckseitennummer",
+                    "seite": "15604",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004324",
+                    "name": {
+                      "vorname": "Kerstin",
+                      "nachname": "Kassner",
+                      "fraktion": "DIE LINKE"
+                    }
+                  },
+                  "#text": "Kerstin Kassner (DIE LINKE)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15605",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912503300",
+                  "a": {
+                    "-href": "S15605",
+                    "-typ": "druckseitennummer",
+                    "seite": "15605",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004178",
+                    "name": {
+                      "vorname": "Markus",
+                      "nachname": "Tressel",
+                      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+                    }
+                  },
+                  "#text": "Markus Tressel (BÜNDNIS 90/DIE GRÜNEN)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15606",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912503400",
+                  "a": {
+                    "-href": "S15606",
+                    "-typ": "druckseitennummer",
+                    "seite": "15606",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004699",
+                    "name": {
+                      "vorname": "Astrid",
+                      "nachname": "Damerow",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Astrid Damerow (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15607",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912503500",
+                  "a": {
+                    "-href": "S15607",
+                    "-typ": "druckseitennummer",
+                    "seite": "15607",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004448",
+                    "name": {
+                      "vorname": "Gülistan",
+                      "nachname": "Yüksel",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Gülistan Yüksel (SPD)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15608",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912503600",
+                  "a": {
+                    "-href": "S15608",
+                    "-typ": "druckseitennummer",
+                    "seite": "15608",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004262",
+                    "name": {
+                      "vorname": "Michael",
+                      "nachname": "Donth",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Michael Donth (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15609",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912503700",
+                  "a": {
+                    "-href": "S15609",
+                    "-typ": "druckseitennummer",
+                    "seite": "15609",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11003744",
+                    "name": {
+                      "vorname": "Martin",
+                      "nachname": "Burkert",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Martin Burkert (SPD)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15610",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912503800",
+                  "a": {
+                    "-href": "S15610",
+                    "-typ": "druckseitennummer",
+                    "seite": "15610",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004924",
+                    "name": {
+                      "vorname": "Kerstin",
+                      "nachname": "Vieregge",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Kerstin Vieregge (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15611",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912503900",
+                  "a": {
+                    "-href": "S15611",
+                    "-typ": "druckseitennummer",
+                    "seite": "15611",
+                    "seitenbereich": "C"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "ivz-block-titel": "Tagesordnungspunkt 29:",
+            "ivz-eintrag": [
+              { "ivz-eintrag-inhalt": "Antrag der Abgeordneten Kordula Schulz-Asche, Maria Klein-Schmeink, Dr. Kirsten Kappert-Gonther, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Die Pflegeversicherung verlässlich und solidarisch gestalten – Die doppelte Pflegegarantie umsetzen" },
+              {
+                "ivz-eintrag-inhalt": "Drucksache 19/14827",
+                "a": {
+                  "-href": "S15612",
+                  "-typ": "druckseitennummer",
+                  "seite": "15612",
+                  "seitenbereich": "C"
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004405",
+                    "name": {
+                      "vorname": "Kordula",
+                      "nachname": "Schulz-Asche",
+                      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+                    }
+                  },
+                  "#text": "Kordula Schulz-Asche (BÜNDNIS 90/DIE GRÜNEN)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15612",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912504000",
+                  "a": {
+                    "-href": "S15612",
+                    "-typ": "druckseitennummer",
+                    "seite": "15612",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004139",
+                    "name": {
+                      "vorname": "Erwin",
+                      "nachname": "Rüddel",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Erwin Rüddel (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15613",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912504100",
+                  "a": {
+                    "-href": "S15613",
+                    "-typ": "druckseitennummer",
+                    "seite": "15613",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004880",
+                    "name": {
+                      "vorname": "Jörg",
+                      "nachname": "Schneider",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Jörg Schneider (AfD)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15614",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912504200",
+                  "a": {
+                    "-href": "S15614",
+                    "-typ": "druckseitennummer",
+                    "seite": "15614",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004244",
+                    "name": {
+                      "vorname": "Heike",
+                      "nachname": "Baehrens",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Heike Baehrens (SPD)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15615",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912504300",
+                  "a": {
+                    "-href": "S15615",
+                    "-typ": "druckseitennummer",
+                    "seite": "15615",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004931",
+                    "name": {
+                      "vorname": "Nicole",
+                      "nachname": "Westig",
+                      "fraktion": "FDP"
+                    }
+                  },
+                  "#text": "Nicole Westig (FDP)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15616",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912504400",
+                  "a": {
+                    "-href": "S15616",
+                    "-typ": "druckseitennummer",
+                    "seite": "15616",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004186",
+                    "name": {
+                      "vorname": "Harald",
+                      "nachname": "Weinberg",
+                      "fraktion": "DIE LINKE"
+                    }
+                  },
+                  "#text": "Harald Weinberg (DIE LINKE)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15617",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912504500",
+                  "a": {
+                    "-href": "S15617",
+                    "-typ": "druckseitennummer",
+                    "seite": "15617",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004311",
+                    "name": {
+                      "vorname": "Erich",
+                      "nachname": "Irlstorfer",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Erich Irlstorfer (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15618",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912504600",
+                  "a": {
+                    "-href": "S15618",
+                    "-typ": "druckseitennummer",
+                    "seite": "15618",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004843",
+                    "name": {
+                      "vorname": "Ulrich",
+                      "nachname": "Oehme",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Ulrich Oehme (AfD)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15619",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912504700",
+                  "a": {
+                    "-href": "S15619",
+                    "-typ": "druckseitennummer",
+                    "seite": "15619",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004261",
+                    "name": {
+                      "vorname": "Sabine",
+                      "nachname": "Dittmar",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Sabine Dittmar (SPD)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15620",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912504800",
+                  "a": {
+                    "-href": "S15620",
+                    "-typ": "druckseitennummer",
+                    "seite": "15620",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004874",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Wieland",
+                      "nachname": "Schinnenburg",
+                      "fraktion": "FDP"
+                    }
+                  },
+                  "#text": "Dr. Wieland Schinnenburg (FDP)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15621",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912504900",
+                  "a": {
+                    "-href": "S15621",
+                    "-typ": "druckseitennummer",
+                    "seite": "15621",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004334",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Roy",
+                      "nachname": "Kühne",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Dr. Roy Kühne (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15622",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912505000",
+                  "a": {
+                    "-href": "S15622",
+                    "-typ": "druckseitennummer",
+                    "seite": "15622",
+                    "seitenbereich": "C"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "ivz-block-titel": "Tagesordnungspunkt 32:",
+            "ivz-eintrag": [
+              { "ivz-eintrag-inhalt": "Erste Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Gesetzes über einen nationalen Zertifikatehandel für Brennstoffemissionen (Brennstoffemissionshandelsgesetz – BEHG)" },
+              {
+                "ivz-eintrag-inhalt": "Drucksache 19/14746",
+                "a": {
+                  "-href": "S15624",
+                  "-typ": "druckseitennummer",
+                  "seite": "15624",
+                  "seitenbereich": "A"
+                }
+              }
+            ]
+          },
+          {
+            "ivz-block-titel": "Zusatzpunkt 11:",
+            "ivz-eintrag": [
+              { "ivz-eintrag-inhalt": "Antrag der Abgeordneten Dr. Lukas Köhler, Frank Sitta, Grigorios Aggelidis, weiterer Abgeordneter und der Fraktion der FDP: Klimaschutz braucht ein CO2-Limit – Klimaziele durch die Ausweitung des EU-Emissionshandels in Deutschland garantiert erreichen" },
+              {
+                "ivz-eintrag-inhalt": "Drucksache 19/14782",
+                "a": {
+                  "-href": "S15624",
+                  "-typ": "druckseitennummer",
+                  "seite": "15624",
+                  "seitenbereich": "A"
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004354",
+                    "name": {
+                      "vorname": "Klaus",
+                      "nachname": "Mindrup",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Klaus Mindrup (SPD)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15624",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912505100",
+                  "a": {
+                    "-href": "S15624",
+                    "-typ": "druckseitennummer",
+                    "seite": "15624",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004752",
+                    "name": {
+                      "vorname": "Karsten",
+                      "nachname": "Hilse",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Karsten Hilse (AfD)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15625",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912505200",
+                  "a": {
+                    "-href": "S15625",
+                    "-typ": "druckseitennummer",
+                    "seite": "15625",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004440",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Anja",
+                      "nachname": "Weisgerber",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Dr. Anja Weisgerber (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15626",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912505300",
+                  "a": {
+                    "-href": "S15626",
+                    "-typ": "druckseitennummer",
+                    "seite": "15626",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004786",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Lukas",
+                      "nachname": "Köhler",
+                      "fraktion": "FDP"
+                    }
+                  },
+                  "#text": "Dr. Lukas Köhler (FDP)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15628",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912505400",
+                  "a": {
+                    "-href": "S15628",
+                    "-typ": "druckseitennummer",
+                    "seite": "15628",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004672",
+                    "name": {
+                      "vorname": "Lorenz Gösta",
+                      "nachname": "Beutin",
+                      "fraktion": "DIE LINKE"
+                    }
+                  },
+                  "#text": "Lorenz Gösta Beutin (DIE LINKE)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15629",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912505500",
+                  "a": {
+                    "-href": "S15629",
+                    "-typ": "druckseitennummer",
+                    "seite": "15629",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004659",
+                    "name": {
+                      "vorname": "Lisa",
+                      "nachname": "Badum",
+                      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+                    }
+                  },
+                  "#text": "Lisa Badum (BÜNDNIS 90/DIE GRÜNEN)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15630",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912505600",
+                  "a": {
+                    "-href": "S15630",
+                    "-typ": "druckseitennummer",
+                    "seite": "15630",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004732",
+                    "name": {
+                      "vorname": "Timon",
+                      "nachname": "Gremmels",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Timon Gremmels (SPD)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15631",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912505700",
+                  "a": {
+                    "-href": "S15631",
+                    "-typ": "druckseitennummer",
+                    "seite": "15631",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004854",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Christoph",
+                      "nachname": "Ploß",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Dr. Christoph Ploß (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15633",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912505800",
+                  "a": {
+                    "-href": "S15633",
+                    "-typ": "druckseitennummer",
+                    "seite": "15633",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004752",
+                    "name": {
+                      "vorname": "Karsten",
+                      "nachname": "Hilse",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Karsten Hilse (AfD)"
+                },
+                "a": {
+                  "-href": "S15633",
+                  "-typ": "druckseitennummer",
+                  "seite": "15633",
+                  "seitenbereich": "B"
+                }
+              }
+            ]
+          },
+          {
+            "ivz-block-titel": "Tagesordnungspunkt 31:",
+            "ivz-eintrag": [
+              { "ivz-eintrag-inhalt": "Antrag der Abgeordneten Thomas Seitz, Johannes Huber, Andreas Bleck, weiterer Abgeordneter und der Fraktion der AfD: Bürgereingaben ernst nehmen – Änderung der Geschäftsordnung des Deutschen Bundestages – Verbindliche Regelungen für öffentliche Petitionen" },
+              {
+                "ivz-eintrag-inhalt": "Drucksache 19/14762",
+                "a": {
+                  "-href": "S15635",
+                  "-typ": "druckseitennummer",
+                  "seite": "15635",
+                  "seitenbereich": "B"
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004764",
+                    "name": {
+                      "vorname": "Johannes",
+                      "nachname": "Huber",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Johannes Huber (AfD)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15635",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912505900",
+                  "a": {
+                    "-href": "S15635",
+                    "-typ": "druckseitennummer",
+                    "seite": "15635",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11003643",
+                    "name": {
+                      "vorname": "Gero",
+                      "nachname": "Storjohann",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Gero Storjohann (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15636",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912506000",
+                  "a": {
+                    "-href": "S15636",
+                    "-typ": "druckseitennummer",
+                    "seite": "15636",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004222",
+                    "name": {
+                      "vorname": "Manfred",
+                      "nachname": "Todtenhausen",
+                      "fraktion": "FDP"
+                    }
+                  },
+                  "#text": "Manfred Todtenhausen (FDP)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15638",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912506100",
+                  "a": {
+                    "-href": "S15638",
+                    "-typ": "druckseitennummer",
+                    "seite": "15638",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004248",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Matthias",
+                      "nachname": "Bartke",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Dr. Matthias Bartke (SPD)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15639",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912506200",
+                  "a": {
+                    "-href": "S15639",
+                    "-typ": "druckseitennummer",
+                    "seite": "15639",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004907",
+                    "name": {
+                      "vorname": "Friedrich",
+                      "nachname": "Straetmanns",
+                      "fraktion": "DIE LINKE"
+                    }
+                  },
+                  "#text": "Friedrich Straetmanns (DIE LINKE)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15640",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912506300",
+                  "a": {
+                    "-href": "S15640",
+                    "-typ": "druckseitennummer",
+                    "seite": "15640",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004390",
+                    "name": {
+                      "vorname": "Corinna",
+                      "nachname": "Rüffer",
+                      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+                    }
+                  },
+                  "#text": "Corinna Rüffer (BÜNDNIS 90/DIE GRÜNEN)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15641",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912506400",
+                  "a": {
+                    "-href": "S15641",
+                    "-typ": "druckseitennummer",
+                    "seite": "15641",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004056",
+                    "name": {
+                      "vorname": "Ansgar",
+                      "nachname": "Heveling",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Ansgar Heveling (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15642",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912506500",
+                  "a": {
+                    "-href": "S15642",
+                    "-typ": "druckseitennummer",
+                    "seite": "15642",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004732",
+                    "name": {
+                      "vorname": "Timon",
+                      "nachname": "Gremmels",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Timon Gremmels (SPD)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15643",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912506600",
+                  "a": {
+                    "-href": "S15643",
+                    "-typ": "druckseitennummer",
+                    "seite": "15643",
+                    "seitenbereich": "D"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "ivz-block-titel": "Tagesordnungspunkt 30:",
+            "ivz-eintrag": [
+              { "ivz-eintrag-inhalt": "Beschlussempfehlung und Bericht des Sportausschusses zu dem Antrag der Fraktionen der CDU/CSU und SPD: Invictus Games – Das Sportereignis der versehrten Soldatinnen und Soldaten als ein deutliches Zeichen der Anerkennung und Wertschätzung nach Deutschland holen" },
+              {
+                "ivz-eintrag-inhalt": "Drucksachen 19/8262, 19/13992",
+                "a": {
+                  "-href": "S15645",
+                  "-typ": "druckseitennummer",
+                  "seite": "15645",
+                  "seitenbereich": "A"
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004174",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Peter",
+                      "nachname": "Tauber",
+                      "rolle": {
+                        "rolle_lang": "Parl. Staatssekretär bei der Bundesministerin der Verteidigung",
+                        "rolle_kurz": "Parl. Staatssekretär BMVg"
+                      }
+                    }
+                  },
+                  "#text": "Dr. Peter Tauber, Parl. Staatssekretär BMVg"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15645",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912506700",
+                  "a": {
+                    "-href": "S15645",
+                    "-typ": "druckseitennummer",
+                    "seite": "15645",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004827",
+                    "name": {
+                      "vorname": "Andreas",
+                      "nachname": "Mrosek",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Andreas Mrosek (AfD)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15646",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912506800",
+                  "a": {
+                    "-href": "S15646",
+                    "-typ": "druckseitennummer",
+                    "seite": "15646",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004387",
+                    "name": {
+                      "vorname": "Andreas",
+                      "nachname": "Rimkus",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Andreas Rimkus (SPD)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15647",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912506900",
+                  "a": {
+                    "-href": "S15647",
+                    "-typ": "druckseitennummer",
+                    "seite": "15647",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004700",
+                    "name": {
+                      "vorname": "Britta Katharina",
+                      "nachname": "Dassler",
+                      "fraktion": "FDP"
+                    }
+                  },
+                  "#text": "Britta Katharina Dassler (FDP)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15648",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912507000",
+                  "a": {
+                    "-href": "S15648",
+                    "-typ": "druckseitennummer",
+                    "seite": "15648",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004288",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "André",
+                      "nachname": "Hahn",
+                      "fraktion": "DIE LINKE"
+                    }
+                  },
+                  "#text": "Dr. André Hahn (DIE LINKE)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15648",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912507100",
+                  "a": {
+                    "-href": "S15648",
+                    "-typ": "druckseitennummer",
+                    "seite": "15648",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004217",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Tobias",
+                      "nachname": "Lindner",
+                      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+                    }
+                  },
+                  "#text": "Dr. Tobias Lindner (BÜNDNIS 90/DIE GRÜNEN)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15649",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912507200",
+                  "a": {
+                    "-href": "S15649",
+                    "-typ": "druckseitennummer",
+                    "seite": "15649",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004800",
+                    "name": {
+                      "vorname": "Jens",
+                      "nachname": "Lehmann",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Jens Lehmann (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15650",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912507300",
+                  "a": {
+                    "-href": "S15650",
+                    "-typ": "druckseitennummer",
+                    "seite": "15650",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004433",
+                    "name": {
+                      "vorname": "Dirk",
+                      "nachname": "Vöpel",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Dirk Vöpel (SPD)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15651",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912507400",
+                  "a": {
+                    "-href": "S15651",
+                    "-typ": "druckseitennummer",
+                    "seite": "15651",
+                    "seitenbereich": "B"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "ivz-block-titel": "Tagesordnungspunkt 33:",
+            "ivz-eintrag": [
+              { "ivz-eintrag-inhalt": "Beschlussempfehlung und Bericht des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung" },
+              { "ivz-eintrag-inhalt": "– zu dem Antrag der Fraktionen der CDU/CSU und SPD: Gemeinsame Initiative von Bund und Ländern zur Förderung von Schulen in benachteiligten sozialen Lagen und mit besonderen Aufgaben der Integration" },
+              { "ivz-eintrag-inhalt": "– zu dem Antrag der Abgeordneten Dr. Götz Frömming, Nicole Höchst, Dr. Marc Jongen, weiterer Abgeordneter und der Fraktion der AfD: Bildungsgerechtigkeit wiederherstellen – Leistungsgedanken stärken" },
+              { "ivz-eintrag-inhalt": "– zu dem Antrag der Abgeordneten Nicola Beer, Katja Suding, Dr. Jens Brandenburg (Rhein-Neckar), weiterer Abgeordneter und der Fraktion der FDP: Chancengerechtigkeit ernst nehmen – Leistungsfähigkeit des Bildungssystems voranbringen" },
+              { "ivz-eintrag-inhalt": "– zu dem Antrag der Abgeordneten Birke Bull-Bischoff, Dr. Petra Sitte, Doris Achelwilm, weiterer Abgeordneter und der Fraktion DIE LINKE: Für eine gemeinsame Bildungsstrategie zum Abbau sozialer Ungleichheit" },
+              { "ivz-eintrag-inhalt": "– zu dem Antrag der Abgeordneten Margit Stumpp, Kai Gehring, Beate Walter-Rosenheimer, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Nationaler Bildungsbericht 2018 – Zeit für einen bildungspolitischen Aufbruch" },
+              {
+                "ivz-eintrag-inhalt": "Drucksachen 19/7027, 19/7041, 19/7031, 19/7026, 19/4632, 19/11082",
+                "a": {
+                  "-href": "S15652",
+                  "-typ": "druckseitennummer",
+                  "seite": "15652",
+                  "seitenbereich": "B"
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11002754",
+                    "name": {
+                      "vorname": "Thomas",
+                      "nachname": "Rachel",
+                      "rolle": {
+                        "rolle_lang": "Parl. Staatssekretär bei der Bundesministerin für Bildung und Forschung",
+                        "rolle_kurz": "Parl. Staatssekretär BMBF"
+                      }
+                    }
+                  },
+                  "#text": "Thomas Rachel, Parl. Staatssekretär BMBF"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15652",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912507500",
+                  "a": {
+                    "-href": "S15652",
+                    "-typ": "druckseitennummer",
+                    "seite": "15652",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004722",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Götz",
+                      "nachname": "Frömming",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Dr. Götz Frömming (AfD)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15653",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912507600",
+                  "a": {
+                    "-href": "S15653",
+                    "-typ": "druckseitennummer",
+                    "seite": "15653",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004942",
+                    "name": {
+                      "vorname": "Marja-Liisa",
+                      "nachname": "Völlers",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Marja-Liisa Völlers (SPD)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15653",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912507700",
+                  "a": {
+                    "-href": "S15653",
+                    "-typ": "druckseitennummer",
+                    "seite": "15653",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004948",
+                    "name": {
+                      "vorname": "Peter",
+                      "nachname": "Heidt",
+                      "fraktion": "FDP"
+                    }
+                  },
+                  "#text": "Peter Heidt (FDP)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15654",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912507800",
+                  "a": {
+                    "-href": "S15654",
+                    "-typ": "druckseitennummer",
+                    "seite": "15654",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004688",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Birke",
+                      "nachname": "Bull-Bischoff",
+                      "fraktion": "DIE LINKE"
+                    }
+                  },
+                  "#text": "Dr. Birke Bull-Bischoff (DIE LINKE)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15655",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912507900",
+                  "a": {
+                    "-href": "S15655",
+                    "-typ": "druckseitennummer",
+                    "seite": "15655",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004909",
+                    "name": {
+                      "vorname": "Margit",
+                      "nachname": "Stumpp",
+                      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+                    }
+                  },
+                  "#text": "Margit Stumpp (BÜNDNIS 90/DIE GRÜNEN)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15656",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912508000",
+                  "a": {
+                    "-href": "S15656",
+                    "-typ": "druckseitennummer",
+                    "seite": "15656",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004918",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Dietlind",
+                      "nachname": "Tiemann",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Dr. Dietlind Tiemann (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15656",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912508100",
+                  "a": {
+                    "-href": "S15656",
+                    "-typ": "druckseitennummer",
+                    "seite": "15656",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004063",
+                    "name": {
+                      "vorname": "Oliver",
+                      "nachname": "Kaczmarek",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Oliver Kaczmarek (SPD)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15657",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912508200",
+                  "a": {
+                    "-href": "S15657",
+                    "-typ": "druckseitennummer",
+                    "seite": "15657",
+                    "seitenbereich": "D"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "ivz-block-titel": "Tagesordnungspunkt 34:",
+            "ivz-eintrag": [
+              { "ivz-eintrag-inhalt": "Antrag der Abgeordneten Dr. Achim Kessler, Susanne Ferschl, Matthias W. Birkwald, weiterer Abgeordneter und der Fraktion DIE LINKE: Kapitalinteressen in der Gesundheitsversorgung offenlegen" },
+              {
+                "ivz-eintrag-inhalt": "Drucksache 19/14372",
+                "a": {
+                  "-href": "S15659",
+                  "-typ": "druckseitennummer",
+                  "seite": "15659",
+                  "seitenbereich": "A"
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004776",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Achim",
+                      "nachname": "Kessler",
+                      "fraktion": "DIE LINKE"
+                    }
+                  },
+                  "#text": "Dr. Achim Kessler (DIE LINKE)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15659",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912508300",
+                  "a": {
+                    "-href": "S15659",
+                    "-typ": "druckseitennummer",
+                    "seite": "15659",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004793",
+                    "name": {
+                      "vorname": "Alexander",
+                      "nachname": "Krauß",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Alexander Krauß (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15660",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912508400",
+                  "a": {
+                    "-href": "S15660",
+                    "-typ": "druckseitennummer",
+                    "seite": "15660",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004898",
+                    "name": {
+                      "vorname": "Detlev",
+                      "nachname": "Spangenberg",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Detlev Spangenberg (AfD)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15661",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912508500",
+                  "a": {
+                    "-href": "S15661",
+                    "-typ": "druckseitennummer",
+                    "seite": "15661",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004358",
+                    "name": {
+                      "vorname": "Bettina",
+                      "nachname": "Müller",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Bettina Müller (SPD)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15662",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912508600",
+                  "a": {
+                    "-href": "S15662",
+                    "-typ": "druckseitennummer",
+                    "seite": "15662",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004003",
+                    "name": {
+                      "vorname": "Christine",
+                      "nachname": "Aschenberg-Dugnus",
+                      "fraktion": "FDP"
+                    }
+                  },
+                  "#text": "Christine Aschenberg-Dugnus (FDP)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15663",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912508700",
+                  "a": {
+                    "-href": "S15663",
+                    "-typ": "druckseitennummer",
+                    "seite": "15663",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004773",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Kirsten",
+                      "nachname": "Kappert-Gonther",
+                      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+                    }
+                  },
+                  "#text": "Dr. Kirsten Kappert-Gonther (BÜNDNIS 90/DIE GRÜNEN)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15664",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912508800",
+                  "a": {
+                    "-href": "S15664",
+                    "-typ": "druckseitennummer",
+                    "seite": "15664",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004139",
+                    "name": {
+                      "vorname": "Erwin",
+                      "nachname": "Rüddel",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Erwin Rüddel (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15664",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912508900",
+                  "a": {
+                    "-href": "S15664",
+                    "-typ": "druckseitennummer",
+                    "seite": "15664",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004295",
+                    "name": {
+                      "vorname": "Dirk",
+                      "nachname": "Heidenblut",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Dirk Heidenblut (SPD)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15665",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912509000",
+                  "a": {
+                    "-href": "S15665",
+                    "-typ": "druckseitennummer",
+                    "seite": "15665",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004311",
+                    "name": {
+                      "vorname": "Erich",
+                      "nachname": "Irlstorfer",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Erich Irlstorfer (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15666",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912509100",
+                  "a": {
+                    "-href": "S15666",
+                    "-typ": "druckseitennummer",
+                    "seite": "15666",
+                    "seitenbereich": "C"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "ivz-block-titel": "Zusatzpunkt 12:",
+            "ivz-eintrag": [
+              { "ivz-eintrag-inhalt": "Aktuelle Stunde auf Verlangen der Fraktion der FDP: Durchsetzung des Rechtsstaats im Fall Ibrahim Miri" },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004023",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Marco",
+                      "nachname": "Buschmann",
+                      "fraktion": "FDP"
+                    }
+                  },
+                  "#text": "Dr. Marco Buschmann (FDP)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15667",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912509200",
+                  "a": {
+                    "-href": "S15667",
+                    "-typ": "druckseitennummer",
+                    "seite": "15667",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11002140",
+                    "name": {
+                      "vorname": "Horst",
+                      "nachname": "Seehofer",
+                      "rolle": {
+                        "rolle_lang": "Bundesminister des Innern, für Bau und Heimat",
+                        "rolle_kurz": "Bundesminister BMI"
+                      }
+                    }
+                  },
+                  "#text": "Horst Seehofer, Bundesminister BMI"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15668",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912509300",
+                  "a": {
+                    "-href": "S15668",
+                    "-typ": "druckseitennummer",
+                    "seite": "15668",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004662",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Bernd",
+                      "nachname": "Baumann",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Dr. Bernd Baumann (AfD)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15671",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912509400",
+                  "a": {
+                    "-href": "S15671",
+                    "-typ": "druckseitennummer",
+                    "seite": "15671",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11003896",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Eva",
+                      "nachname": "Högl",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Dr. Eva Högl (SPD)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15672",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912509500",
+                  "a": {
+                    "-href": "S15672",
+                    "-typ": "druckseitennummer",
+                    "seite": "15672",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004907",
+                    "name": {
+                      "vorname": "Friedrich",
+                      "nachname": "Straetmanns",
+                      "fraktion": "DIE LINKE"
+                    }
+                  },
+                  "#text": "Friedrich Straetmanns (DIE LINKE)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15673",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912509600",
+                  "a": {
+                    "-href": "S15673",
+                    "-typ": "druckseitennummer",
+                    "seite": "15673",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004123",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Konstantin",
+                      "nachname": "von Notz",
+                      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+                    }
+                  },
+                  "#text": "Dr. Konstantin von Notz (BÜNDNIS 90/DIE GRÜNEN)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15674",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912509700",
+                  "a": {
+                    "-href": "S15674",
+                    "-typ": "druckseitennummer",
+                    "seite": "15674",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004276",
+                    "name": {
+                      "vorname": "Thorsten",
+                      "nachname": "Frei",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Thorsten Frei (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15676",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912509800",
+                  "a": {
+                    "-href": "S15676",
+                    "-typ": "druckseitennummer",
+                    "seite": "15676",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004749",
+                    "name": {
+                      "vorname": "Martin",
+                      "nachname": "Hess",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Martin Hess (AfD)"
+                },
+                "xref": {
+                  "-div": "C",
+                  "-pnr": "15677",
+                  "-ref-type": "rede",
+                  "-rid": "ID1912509900",
+                  "a": {
+                    "-href": "S15677",
+                    "-typ": "druckseitennummer",
+                    "seite": "15677",
+                    "seitenbereich": "C"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11002823",
+                    "name": {
+                      "vorname": "Ute",
+                      "nachname": "Vogt",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Ute Vogt (SPD)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15679",
+                  "-ref-type": "rede",
+                  "-rid": "ID19125010000",
+                  "a": {
+                    "-href": "S15679",
+                    "-typ": "druckseitennummer",
+                    "seite": "15679",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004796",
+                    "name": {
+                      "vorname": "Konstantin",
+                      "nachname": "Kuhle",
+                      "fraktion": "FDP"
+                    }
+                  },
+                  "#text": "Konstantin Kuhle (FDP)"
+                },
+                "xref": {
+                  "-div": "A",
+                  "-pnr": "15680",
+                  "-ref-type": "rede",
+                  "-rid": "ID19125010100",
+                  "a": {
+                    "-href": "S15680",
+                    "-typ": "druckseitennummer",
+                    "seite": "15680",
+                    "seitenbereich": "A"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004149",
+                    "name": {
+                      "vorname": "Armin",
+                      "nachname": "Schuster",
+                      "ortszusatz": "(Weil am Rhein)",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Armin Schuster (Weil am Rhein) (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15681",
+                  "-ref-type": "rede",
+                  "-rid": "ID19125010200",
+                  "a": {
+                    "-href": "S15681",
+                    "-typ": "druckseitennummer",
+                    "seite": "15681",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004802",
+                    "name": {
+                      "vorname": "Helge",
+                      "nachname": "Lindh",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Helge Lindh (SPD)"
+                },
+                "xref": {
+                  "-div": "D",
+                  "-pnr": "15682",
+                  "-ref-type": "rede",
+                  "-rid": "ID19125010300",
+                  "a": {
+                    "-href": "S15682",
+                    "-typ": "druckseitennummer",
+                    "seite": "15682",
+                    "seitenbereich": "D"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004795",
+                    "name": {
+                      "vorname": "Michael",
+                      "nachname": "Kuffer",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Michael Kuffer (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15684",
+                  "-ref-type": "rede",
+                  "-rid": "ID19125010400",
+                  "a": {
+                    "-href": "S15684",
+                    "-typ": "druckseitennummer",
+                    "seite": "15684",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": {
+                  "redner": {
+                    "-id": "11004917",
+                    "name": {
+                      "vorname": "Alexander",
+                      "nachname": "Throm",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Alexander Throm (CDU/CSU)"
+                },
+                "xref": {
+                  "-div": "B",
+                  "-pnr": "15685",
+                  "-ref-type": "rede",
+                  "-rid": "ID19125010500",
+                  "a": {
+                    "-href": "S15685",
+                    "-typ": "druckseitennummer",
+                    "seite": "15685",
+                    "seitenbereich": "B"
+                  }
+                }
+              },
+              {
+                "ivz-eintrag-inhalt": "Nächste Sitzung",
+                "a": {
+                  "-href": "S15686",
+                  "-typ": "druckseitennummer",
+                  "seite": "15686",
+                  "seitenbereich": "D"
+                }
+              }
+            ]
+          },
+          {
+            "ivz-block-titel": "Anlage 1",
+            "ivz-eintrag": {
+              "ivz-eintrag-inhalt": "Entschuldigte Abgeordnete",
+              "a": {
+                "-href": "S15687",
+                "-typ": "druckseitennummer",
+                "seite": "15687",
+                "seitenbereich": "A"
+              }
+            }
+          },
+          {
+            "ivz-block-titel": "Anlage 2",
+            "ivz-eintrag": {
+              "ivz-eintrag-inhalt": "Amtliche Mitteilungen",
+              "a": {
+                "-href": "S15688",
+                "-typ": "druckseitennummer",
+                "seite": "15688",
+                "seitenbereich": "A"
+              }
+            }
+          }
+        ],
+        "ivz-eintrag": [
+          { "ivz-eintrag-inhalt": "in Verbindung mit" },
+          { "ivz-eintrag-inhalt": "in Verbindung mit" }
+        ]
+      }
+    },
+    "sitzungsverlauf": {
+      "sitzungsbeginn": {
+        "-sitzung-start-uhrzeit": "9.00",
+        "name": "Präsident Dr. Wolfgang Schäuble:",
+        "p": {
+          "-klasse": "J_1",
+          "#text": "Guten Morgen, liebe Kolleginnen und Kollegen! Bitte nehmen Sie Platz. Die Sitzung ist eröffnet."
+        }
+      },
+      "tagesordnungspunkt": [
+        {
+          "-top-id": "Tagesordnungspunkt 26",
+          "p": [
+            {
+              "-klasse": "J",
+              "#text": "Ich rufe Tagesordnungspunkt 26 auf:"
+            },
+            {
+              "-klasse": "T_NaS",
+              "#text": "Vereinbarte Debatte"
+            },
+            {
+              "-klasse": "T_fett",
+              "#text": "30 Jahre Mauerfall"
+            },
+            {
+              "-klasse": "J",
+              "#text": "Nach einer interfraktionellen Vereinbarung sind für die Aussprache 90 Minuten vorgesehen. – Ich höre keinen Widerspruch. Dann ist das so beschlossen."
+            },
+            {
+              "-klasse": "J",
+              "#text": "Ich eröffne die Aussprache und erteile das Wort dem Vorsitzenden der CDU/CSU-Fraktion, Ralph Brinkhaus."
+            }
+          ],
+          "kommentar": "(Beifall bei der CDU/CSU)",
+          "rede": [
+            {
+              "-id": "ID1912500100",
+              "p": [
+                {
+                  "-klasse": "redner",
+                  "redner": {
+                    "-id": "11004021",
+                    "name": {
+                      "vorname": "Ralph",
+                      "nachname": "Brinkhaus",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Ralph Brinkhaus (CDU/CSU):"
+                },
+                {
+                  "-klasse": "J_1",
+                  "#text": "Guten Morgen, Herr Präsident! Meine Damen und Herren! Die erste gute Nachricht am heutigen Tag ist, dass es den beiden Kollegen, denen es gestern schlecht gegangen ist, wohl wieder besser geht."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Daran merkt man: Wir sind Menschen. Vielleicht sollten wir uns spätnachts auch so verhalten und berücksichtigen, dass wir Menschen nur eine begrenzte Belastungsfähigkeit haben. Ich glaube, das hilft uns weiter."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Meine Damen und Herren, zur Friedlichen Revolution, über die wir heute sprechen, fällt mir ein Erlebnis ein. Wir waren mit unserer Fraktion vor wenigen Wochen zu einer Sondersitzung in Leipzig. Ich habe mich vorher zusammen mit einigen Kollegen mit Bürgerrechtlerinnen und Bürgerrechtlern in der Nordkapelle der Nikolaikirche getroffen, wir haben eine Andacht gefeiert, etwas diskutiert. Bei dieser Diskussion habe ich wirklich atemlos dagesessen und habe mir die Geschichten zu den Ereignissen von 1988 und 1989 angehört. Ich bin noch einmal eingetaucht in die Zeit, in der engagierte und mutige Menschen angefangen haben, sich Zentimeter für Zentimeter Freiräume zu erkämpfen, in der sie den Mut gefasst haben, sich zu versammeln, oft in Versammlungsräumen im Schutz der Kirche, in der sie den Mut gefasst haben, zu diskutieren, in der sie den Mut gefasst haben, Flugblätter zu verteilen. Aus wenigen sind dann ganz viele geworden, die auf den Straßen von Leipzig, aber auch in vielen anderen Orten der DDR demonstriert haben."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Dies geschah übrigens unter einem hohen persönlichen Risiko. Nur zur Erinnerung: 1989 war auch das Jahr, in dem in China in Peking eine Demokratiebewegung blutig niedergeschlagen wurde. Keiner wusste, was aus diesen Demonstrationen werden würde, was passieren würde. Deswegen, meine Damen und Herren, können wir wirklich davon sprechen, dass es eben keine Wende war, wie uns der eine oder andere SED-Funktionär weismachen wollte, sondern eine Revolution, und zwar – und das ist das große Wunder – eine Friedliche Revolution."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Weil das so ist, sollten wir uns heute mit großem Respekt vor denjenigen verneigen, die diese Friedliche Revolution durch ihr Engagement, durch ihren Mut überhaupt erst möglich gemacht haben."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Ich habe aber auch noch etwas anderes gelernt, nämlich dass 1988/1989 nicht der Anfang war. Zum Beispiel am 17. Juni 1953 hat es Menschen gegeben, die für Freiheit gekämpft haben, auch in der Öffentlichkeit. Aber auch zwischen 1953 und 1988 hat es ganz viele Menschen gegeben, von denen heute niemand mehr Notiz nimmt, die unter einem unglaublich hohen persönlichen Risiko für Freiheit gekämpft haben,"
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "die dafür ins Gefängnis gegangen sind, denen dafür Berufs- und Lebenschancen genommen wurden, die von ihren Familien getrennt worden sind. Ich glaube, wir sollten uns heute auch vor diesen Menschen, vor den stillen Helden der Friedlichen Revolution, verneigen."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Ich denke, heute an diesem Tag sollten wir aber auch an diejenigen denken, die den Fall der Mauer nicht mehr erlebt haben, weil sie an der Mauer, am Stacheldraht, an der Grenze durch Selbstschussanlagen getötet worden sind. Heute ist der Tag, auch diese Menschen zu würdigen, die ihren Kampf gekämpft haben, ohne dass er am Ende erfolgreich war."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Meine Damen und Herren, diese Friedliche Revolution hat uns alle sehr beeindruckt. Der Tag, der für diese Friedliche Revolution steht, ist natürlich der 9. November. Jeder, der diesen Tag erlebt hat, der weiß, was er damals gemacht hat, der weiß, wie er diese Stunden verbracht hat. Dieser Tag war – ich glaube, das kann man so sagen – der glücklichste in unserer Geschichte, der erfüllt war von Freude, von unschuldiger, vorbehaltloser Freude. Ich glaube, es ist einfach auch wichtig, sich in diesen Zeiten an diese Freude zu erinnern; denn wenn wir uns immer nur mit den traurigen Dingen beschäftigen, dann führt das auch in der Politik zu wenig. Deswegen ist es richtig, dass wir heute diese Debatte führen."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Aber ich kann nicht über den 9. November 1989 reden, ohne den 9. November 1938 zu erwähnen. Dieser Tag steht auch als Symbol für den millionenfachen Mord an Jüdinnen und Juden, verübt durch Deutsche. Ich glaube, es ist gerade in diesen Tagen sehr wichtig, das hier in dieser Debatte zu benennen, wo jüdisches Leben in Deutschland wieder angegriffen, attackiert und verfolgt wird. Deswegen sollte heute an diesem Tag aus diesem Deutschen Bundestag das ganz klare Signal kommen, dass dieser Deutsche Bundestag alles in seiner Macht Stehende tun wird, um Jüdinnen und Juden, ihre Häuser, ihre Versammlungsstätten, ihre Läden und auch ihre Synagogen zu schützen."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Aus dem 9. November wurde dann der 3. Oktober, wurde dann die Wiedervereinigung. Auch hier haben wir unglaublich vielen Menschen zu danken: den Männern und Frauen – ich habe vom Westen aus mit großem Respekt darauf geschaut –, die an den Runden Tischen versucht haben, das Land neu zu organisieren, den ersten Abgeordneten der frei gewählten Volkskammer – wir haben noch eine unter uns, die damals dabei war –, aber natürlich auch den Staatsmännern und Staatsfrauen, die die historische Chance beherzt ergriffen haben, ob das nun Helmut Kohl, Lothar de Maizière oder viele andere waren, und diese Wiedervereinigung organisiert haben."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Ich möchte einen ganz besonders nennen, nämlich George Bush, den amerikanischen Präsidenten,"
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "und zwar deswegen, weil wir in ihm einen Freund gehabt haben, der in unverbrüchlicher Freundschaft mit Deutschland verbunden war. Ich glaube, in Zeiten, in denen die deutsch-amerikanischen Beziehungen schwierig sind, muss das an dieser Stelle auch gesagt werden. Vielen Dank an George Bush! Es geht aber auch ein ganz herzlicher Gruß an Michail Gorbatschow,"
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "der auch seinen Beitrag dazu geleistet hat, dass diese Wiedervereinigung möglich war."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Tja, und dann, meine Damen und Herren, wurde aus der Euphorie des 9. Novembers, aus der Freude des 3. Oktobers Alltag. Und es war kein schöner Alltag, das muss man auch sagen. Betriebe waren nicht mehr wettbewerbsfähig, wurden verkauft, verkleinert oder ganz geschlossen. Es gab Arbeitslosigkeit, existenzielle Ängste. Die Städte waren marode. Die Umweltschäden waren so groß, wie wir uns das heute überhaupt nicht mehr vorstellen können. Es gab Brüche über Brüche."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Es ist viel geschafft worden, viel Gutes erreicht worden, das ist überhaupt keine Frage. Es ist nicht alles richtig gemacht worden, was oft weniger am bösen Willen, sondern an mangelnder Erfahrung lag, aber es ist viel erreicht worden."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Aber eines haben wir nicht gesehen, und damit meine ich nicht die kaputten Straßen oder kaputten Städte, sondern wir haben nicht gesehen – und das sage ich als jemand aus dem Westen, aus Nordrhein-Westfalen –, welche großen Brüche sich in den Biografien der Bürgerinnen und Bürger in der damaligen DDR ergeben haben. Sie mussten sich komplett neu erfinden, sind aus einer alten Zeit in eine unsichere neue Zeit hineingefallen, mussten alles irgendwie neu machen. Ich glaube, wir können gar nicht ermessen, was es bedeutet, wenn man sich komplett neu erfinden muss mit all den Unsicherheiten, die damit verbunden sind. Das, meine Damen und Herren, war wirklich – das gestehe ich zu – der große Fehler im Prozess der Wiedervereinigung. Dass wir viel über Geld gesprochen haben, das war überhaupt keine Frage, auch nicht, dass das Geld aus dem Westen gekommen ist, im Übrigen auch von Kommunen wie Gelsenkirchen und Pirmasens, die es sich nicht leisten konnten. Aber Geld ist halt nicht alles, man muss auch die Menschen sehen. Vielleicht ist der entscheidende Punkt, dass wir uns vornehmen, mehr den Menschen zu sehen und weniger auf Geld, Infrastruktur und anderes zu schauen."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Meine Damen und Herren, die Friedliche Revolution war der Ruf nach Freiheit. Mir stellt sich die Frage, ob es der Ruf nach Freiheit von etwas war, von Diktatur und Unrechtsstaat – ja, es war übrigens eine Diktatur und ein Unrechtsstaat; das muss auch einmal klar gesagt werden –,"
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "oder der Ruf nach Freiheit zu etwas. Freiheit muss immer zu etwas gebraucht werden, muss erkämpft werden, muss immer wieder verteidigt werden. Das bedeutet aber auch, Verantwortung zu übernehmen, Verantwortung für sich selbst und Verantwortung für das Land. Und das ist anstrengend, das ist überhaupt keine Frage. Genau deswegen, weil es anstrengend ist, haben wir im Westen wie im Osten momentan die Tendenz, dass gesagt wird: Lasst uns doch die Verantwortung weitergeben an den Staat, der für alles sorgen soll, an – meistens – starke Männer, die diesen Staat führen sollen, oder an autoritäre Parteien, die dann dafür sorgen sollen, dass alles geregelt ist und dass alles gut ist! Meine Damen und Herren, die Freiheit auf diese Art und Weise zurückzugeben, ist der größte Verrat an den Männern und Frauen vom Herbst 1989!"
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Natürlich ist es anstrengend – das ist überhaupt keine Frage –, und es ist mit Ängsten verbunden. Aber schauen wir doch noch einmal auf diejenigen, die in Leipzig und anderswo auf die Straßen gegangen sind. Sie haben gezeigt, dass man keine Angst haben muss. Sie haben gezeigt, dass es geht und dass Menschen, wenn sie sich einig sind, wenn sie friedlich und respektvoll demonstrieren, unglaublich viel erreichen können. Das sollte uns auch in die heutige Zeit hineintragen."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Ich habe Ihnen am Anfang erzählt, dass wir in der Nikolaikirche mit Bürgerrechtlern zusammengesessen und dort auch eine Andacht gefeiert haben. In dieser Andacht haben wir ein Lied gesungen. Dieses Lied, das Kirchenlied „Vertraut den neuen Wegen“, das im Sommer 1989 ursprünglich für ein junges Hochzeitspaar in Eisenach geschrieben worden war, aber dann doch so viel von dem ausgedrückt hat, was diese Zeit geprägt hat, hat mich seitdem nicht losgelassen."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "In der dritten Strophe heißt es:"
+                },
+                {
+                  "-klasse": "Z",
+                  "#text": "Wer aufbricht, der kann hoffen in Zeit und Ewigkeit."
+                },
+                {
+                  "-klasse": "Z",
+                  "#text": "Die Tore stehen offen, das Land ist hell und weit."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Meine Damen und Herren, vielleicht ist genau das die große Botschaft von 1989 an uns heute, wo wir auch vor Brüchen stehen: Wer aufbricht, der kann hoffen. Das Land ist hell und weit."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Danke."
+                },
+                {
+                  "-klasse": "J_1",
+                  "#text": "Nächster Redner ist der Kollege Tino Chrupalla, AfD."
+                }
+              ],
+              "kommentar": [
+                "(Beifall)",
+                "(Beifall bei der CDU/CSU, der SPD, der FDP, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)",
+                "(Beifall bei der CDU/CSU, der SPD, der FDP und dem BÜNDNIS 90/DIE GRÜNEN)",
+                "(Beifall der Abg. Gitta Connemann [CDU/CSU])",
+                "(Beifall bei der CDU/CSU, der SPD, der FDP und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN)",
+                "(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD und der FDP)",
+                "(Beifall bei der CDU/CSU, der SPD, der FDP, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der AfD)",
+                "(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD und der FDP)",
+                "(Beifall bei der CDU/CSU, der SPD, der AfD, der FDP und dem BÜNDNIS 90/DIE GRÜNEN)",
+                "(Dr. Alice Weidel [AfD]: Ja, ja!)",
+                "(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)",
+                "(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD und der FDP)",
+                "(Beifall bei der CDU/CSU, der SPD und der FDP sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)",
+                "(Christian Lindner [FDP]: Vorsingen!)",
+                "(Anhaltender Beifall bei der CDU/CSU – Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der FDP)",
+                "(Beifall bei der AfD)"
+              ],
+              "name": "Präsident Dr. Wolfgang Schäuble:"
+            },
+            {
+              "-id": "ID1912500200",
+              "p": [
+                {
+                  "-klasse": "redner",
+                  "redner": {
+                    "-id": "11004695",
+                    "name": {
+                      "vorname": "Tino",
+                      "nachname": "Chrupalla",
+                      "fraktion": "AfD"
+                    }
+                  },
+                  "#text": "Tino Chrupalla (AfD):"
+                },
+                {
+                  "-klasse": "J_1",
+                  "#text": "Sehr geehrter Herr Präsident! Verehrte Kolleginnen und Kollegen! Liebe Landsleute! Morgen jährt sich der Tag des Mauerfalls. Es ist ein ganz besonderes historisches Ereignis in der jüngeren Geschichte unseres Landes. Wie kein anderes Bauwerk symbolisierte dieses Gebilde die Entzweiung des deutschen Volkes und die Fremdherrschaft durch zwei Weltmächte, die unser Land im Herzen Europas für ihren Kalten Krieg einspannten. Die einen nannten es den antifaschistischen Schutzwall. Für die anderen war es die kommunistische Schandmauer. Ich nenne es heute den antideutschen Trennwall oder den Limes des 20. Jahrhunderts."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "In der Nacht auf den 9. November 1989 bezwangen die Bürger der DDR diesen Trennwall mitsamt der dazugehörigen Drohkulisse, bestehend aus Grenzsoldaten, Stacheldraht, Minen und Selbstschussanlagen. Am 9. November 1989 wurde der Bann dieses Symbols gebrochen. In vielen deutschen Familien flossen in dieser Nacht die Freudentränen. Nun konnte wieder zusammenwachsen, was zusammengehört. Für viele von uns ging ein Traum in Erfüllung, den selbst deutsche Politiker nicht mehr zu träumen wagten."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Für uns ein Traum, für andere ein Albtraum. Herr Maas, Sie liegen völlig daneben mit Ihrer Aussage, die deutsche Einheit sei auf Wunsch der Europäer zustande gekommen. Das haben Sie in der Prager Botschaft – ich habe es selbst gehört – erzählt. Es wäre schön, wenn es tatsächlich so gewesen wäre. Aber die Realität sah anders aus. Ich habe die Aussagen von Maggie Thatcher und anderen namhaften europäischen und deutschen Politikern, vor allem aus der SPD, noch im Ohr, und sie schmerzen mich noch heute."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Sie tun uns keinen Gefallen, Herr Maas, wenn Sie hier die Tatsachen verschleiern."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Die Umwälzungen im Zuge der deutschen Einheit bescherten den neuen Bundesländern neue Freiheiten und Möglichkeiten; aber sie bescherten uns auch einen beispiellosen Raubzug durch die Treuhand, der noch längst nicht aufgearbeitet ist und dessen Folgen die Menschen in Mitteldeutschland heute noch immer spüren. Die Einheit bescherte uns auch neue Politiker, zum Beispiel die amtierende Kanzlerin Angela Merkel."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Ich bedaure, dass sie uns nicht verrät, welche Herrschafts- und Zersetzungsstrategien sie damals bei der FDJ gelernt hat."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Wie man ein Volk mit Agitation und Propaganda in Schach hält, ist wertvolles Wissen, das uns dabei helfen könnte, den Riss zu kitten, der heute wieder durch Deutschland geht."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Wie haben Sie es eigentlich geschafft, Frau Merkel, dass heute wieder ein antifaschistischer bzw. ein antideutscher Trennwall unser Land zerteilt? Diese Entwicklung fällt in Ihre Amtszeit. Dafür sind Sie verantwortlich."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Oder glauben Sie etwa, dass Ihren Untertanen Ihre vielen Mikroaggressionen gegen alles Deutsche entgangen sind?"
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Ich kann auch kaum glauben, dass eine Frau so wenig Mitgefühl und Liebe zu dem Volk empfindet, das sie selbst regiert und repräsentiert."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Ihre Beileidsbekundung an die Angehörigen der Opfer vom Breitscheidplatz erfolgte ein Jahr später. Als der kleine Junge in Frankfurt mutwillig vor den Zug gestoßen wurde, traten Sie schweigend Ihren Urlaub an."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "In einem gut regierten Land hätte das Staatsoberhaupt Trauerbeflaggung angeordnet; aber es erfolgte nichts."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Soll ich Ihnen einmal sagen, wann Menschen gut und gerne in einem Land leben? Wenn sie das Gefühl haben, dass ihr Land von Personen regiert wird, die auch um ihr emotionales Wohlergehen bemüht sind."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Die Bürgerrechtlerin Bärbel Bohley hat vor 29 Jahren davor gewarnt, dass die Stasimethoden die DDR überleben würden."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Sie sagte – ich zitiere –:"
+                },
+                {
+                  "-klasse": "Z",
+                  "#text": "Man wird diese Strukturen genauestens untersuchen – um sie dann zu übernehmen. Man wird sie ein wenig adaptieren, damit sie zu einer freien westlichen Gesellschaft passen. Man wird die Störer auch nicht unbedingt verhaften. Es gibt feinere Möglichkeiten, jemanden unschädlich zu machen."
+                },
+                {
+                  "-klasse": "Z",
+                  "#text": "Aber die geheimen Verbote, das Beobachten, der Argwohn, die Angst, das Isolieren und Ausgrenzen, das Brandmarken und Mundtotmachen derer, die sich nicht anpassen – das wird wiederkommen ..."
+                },
+                {
+                  "-klasse": "Z",
+                  "#text": "Man wird Einrichtungen schaffen, die viel effektiver arbeiten, viel feiner als die Stasi. Auch das ständige Lügen wird wiederkommen, die Desinformation, der Nebel, in dem alles seine Kontur verliert."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Zitat Ende."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Weil ich gerne mit einer hoffnungsvollen Botschaft zum Tag des Mauerfalls enden möchte, schließe ich mit einem Wunschtraum: In meinem Traum existiert wieder ein geeintes deutsches Volk im Herzen Europas, das zu seinen guten Traditionen und Werten steht, ein deutsches Volk, dem der Frieden in der Welt und in Europa am Herzen liegt und das sich dabei trotzdem nicht selbst verleugnet,"
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "ein Land, das gelernt hat, dass es ruhig, aber bestimmt Nein sagen darf und sich nicht ausbeuten und zerstören lassen muss,"
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "ein Land mit gesunden Grenzen, in denen man sich auch als Deutscher geborgen und wertgeschätzt fühlt, mit Grenzen, die uns schützen, anstatt uns zu entzweien."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Vielen Dank."
+                },
+                {
+                  "-klasse": "J_1",
+                  "#text": "Jetzt erteile ich das Wort der Kollegin Katrin Budde, SPD."
+                }
+              ],
+              "kommentar": [
+                "(Beifall bei der AfD)",
+                "(Beifall bei der AfD)",
+                "(Zurufe vom BÜNDNIS 90/DIE GRÜNEN: Oh!)",
+                "(Beifall bei der AfD)",
+                "(Beifall bei Abgeordneten der CDU/CSU)",
+                "(Beifall bei Abgeordneten der AfD – Zurufe von der CDU/CSU: Pfui! – Weitere Zurufe von der CDU/CSU und SPD)",
+                "(Beifall bei Abgeordneten der AfD)",
+                "(Beifall bei der AfD)",
+                "(Stefan Müller [Erlangen] [CDU/CSU]: Selten so einen Quatsch gehört!)",
+                "(Beifall bei Abgeordneten der AfD – Claudia Roth [Augsburg] [BÜNDNIS 90/DIE GRÜNEN]: Jetzt reicht es aber! – Zurufe von der CDU/CSU und der SPD: Pfui! Schäm dich! – Weitere Zurufe von der SPD und dem BÜNDNIS 90/DIE GRÜNEN)",
+                "(Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN]: Soll das Ihre Bewerbungsrede für Ihre rechte Partei sein?)",
+                "(Beifall bei der AfD – Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN]: Meinen Sie, dafür kriegen Sie ein paar Stimmen mehr vom Flügel? – Zurufe von der CDU/CSU und der SPD)",
+                "(Zurufe von der CDU/CSU, der SPD und dem BÜNDNIS 90/DIE GRÜNEN)",
+                "(Michael Grosse-Brömer [CDU/CSU]: Haben Sie Ihre Unbedenklichkeitsbescheinigung schon unterschrieben? – Zuruf vom BÜNDNIS 90/DIE GRÜNEN: Hetzer!)",
+                "(Zurufe von der CDU/CSU und der SPD)",
+                "(Beifall bei Abgeordneten der AfD)",
+                "(Beifall bei Abgeordneten der AfD – Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN]: Warum haben Sie eigentlich die Akkreditierung noch nicht unterschrieben? – Weitere Zurufe von der CDU/CSU, der SPD und dem BÜNDNIS 90/DIE GRÜNEN – Gegenruf des Abg. Christian Lindner [FDP]: Warum regt ihr euch darüber auf?)",
+                "(Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN]: Ist das die Flügelrede für den Parteitag? Meinen Sie, damit kriegen Sie ein paar Stimmen mehr von den Rechtsextremen?)",
+                "(Widerspruch bei der SPD, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)",
+                "(Beifall bei der AfD – Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN]: Völlig enthemmt! Das war die Bewerbungsrede für den Flügel, für den Parteitag! Hauptsache, man hat rechts geblinkt! – Katrin Göring-Eckardt [BÜNDNIS 90/DIE GRÜNEN]: Ekelhaft! – Claudia Roth [Augsburg] [BÜNDNIS 90/DIE GRÜNEN]: Schämen Sie sich! – Weitere Zurufe von der CDU/CSU, der SPD und dem BÜNDNIS 90/DIE GRÜNEN)",
+                "(Beifall bei der SPD sowie der Abg. Gitta Connemann [CDU/CSU])"
+              ],
+              "name": "Präsident Dr. Wolfgang Schäuble:"
+            },
+            {
+              "-id": "ID1912500300",
+              "p": [
+                {
+                  "-klasse": "redner",
+                  "redner": {
+                    "-id": "11004686",
+                    "name": {
+                      "vorname": "Katrin",
+                      "nachname": "Budde",
+                      "fraktion": "SPD"
+                    }
+                  },
+                  "#text": "Katrin Budde (SPD):"
+                },
+                {
+                  "-klasse": "J_1",
+                  "#text": "Wer heute Morgen MOMA geschaut hat, der hat die Rufe gehört: Tor auf! Tor auf! Wir kommen wieder, wir müssen ja morgen zur Arbeit! Wir haben alle unsere Ausweise mit! Lasst uns doch einfach durchs Tor gehen! – Das war die Stimmung am 9. November abends. Wer sie noch einmal fühlen will, sollte sich in der Mediathek den MOMA-Beitrag von heute Morgen anhören."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Es gibt ganz viele Erinnerungsgeschichten, die in diesen Tagen auf Veranstaltungen und untereinander erzählt werden, weil wir uns erinnern. Diese Erinnerungsgeschichten, die ich immer wieder höre, unterscheiden sich sehr von meiner eigenen persönlichen Wahrnehmung. Natürlich hat jeder seine eigene persönliche Wahrnehmung vom Herbst 1989 und auch vom 9. November. Aber eines gleicht sich: Die meisten von uns waren staunend, sie waren ungläubig. Sie fragten sich auch wie Dietmar Woidke mit ein wenig Angst: Komme ich wieder zurück, wenn ich in meinem Ausweis den Stempel „Ausreise aus der DDR“ stehen habe? Wir waren überwältigt, und alles war ein wenig irreal."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Aber so klar, wie die Geschichte heute in der Rückschau erzählt wird, war das alles damals nicht. Noch am 7. Oktober, also nicht lange davor, waren überall in der DDR ganz viele Menschen – einfache Passanten, aber auch Demonstrantinnen und Demonstranten, die gegen den Staat auf die Straße gegangen waren – festgenommen worden, inhaftiert worden. Wer die Gedächtnisprotokolle über Prügel, Schikane, über Verhöre und Inhaftierungen liest, der muss daran denken: Auch das war die DDR. Das MfS hatte die Tatze auf alle Teile der Volkspolizei gelegt, auch auf die, die normalerweise nichts mit dem MfS zu tun hatten."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Am 6. November wurde die Aktenvernichtung angeordnet. Am 4. und 5. November, kurz vor dem 9. November, reisten 10 000 Bürgerinnen und Bürger ohne Visa über die CSSR nach Bayern aus. In dieser Zeit, meine Damen und Herren, wurde auch das Wort „Wende“ geboren. Das ist etwas, was es nie gegeben hat. Es hat keine Wende gegeben. Ich bin immer wieder erstaunt und überrascht, dass diese Bezeichnung die Bezeichnung „Friedliche Revolution“ abgelöst hat. Das macht mich wütend, und das macht mich auch traurig."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Die Wende war etwas, was Egon Krenz wollte. Wer eine Bestätigung dafür braucht, muss sich die Sendungen der „Aktuellen Kamera“ dieser Zeit ansehen. Egon Krenz hat gesagt, man wolle jetzt die Wende in der DDR schaffen. Diese Wende hat es, wie gesagt, Gott sei Dank nie gegeben. Deshalb kann sie auch heute nicht vollendet werden. Wenn man sich dies einmal klargemacht hat, meine Damen und Herren, dann weiß man, wie dumm, wie skurril, wie irreführend einige der Parolen von heute sind. Und wer diese Parolen ausgibt, der steht nicht in der Tradition der Friedlichen Revolution, der steht in der Tradition von Egon Krenz."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Mehr ist zu Ihrer Rede heute auch nicht zu sagen."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Wir wollten eine Demokratisierung ohne SED, ohne Egon Krenz, ohne MfS. Wir wollten Presse-, Meinungs- und Reisefreiheit, eine saubere Umwelt. Wir wollten nicht nur die Brosamen, die uns die SED geben wollte. Wir wollten Veränderungen in unserem Zuhause; das haben die Menschen am 9. November zum Beispiel an der Bornholmer Straße auch gesagt. Und ja, wir wollten auch Wohlstand – selbstverständlich. Die DDR war eine Mangelwirtschaft. Das zeigte sich nicht nur, wenn es um Bananen, Farbfernseher und Trabis ging, sondern zum Beispiel auch, wenn man einen CT-Termin brauchte und kein Westgeld hatte."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Verwechseln wir heute auch nicht gute strukturelle Dinge wie den SV-Ausweis oder den Impfstatus mit der DDR. Und verwechseln wir nicht das, wie ich finde, strukturell vernünftige Bildungssystem der DDR mit dem, wozu es benutzt wurde, nämlich zur Kontrolle und ideologischen Indoktrination von Geburt an. Und nein, ich konnte nicht einfach sagen: Ich will Abitur machen. – Und nein, ich konnte meinen Studienplatz nicht frei wählen. Und ja, ich musste unterschreiben, dass ich am Ende des Studiums für drei Jahre dahin gehe, wo der Staat mich braucht. Das musste man damals, es sei denn, man hatte wie ich eine Wohnung; denn Wohnungen waren noch knapper."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Meine Damen und Herren, die Mauer ist nicht gefallen. Sie wurde von innen eingedrückt. Sie wurde gestürzt. Sie wurde überwunden."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Sie bekam Löcher. Sie bekam Löcher an den Stellen, wo die Brüdervölker nicht mehr gewillt waren, die Handlanger der Sowjetunion zu sein."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Holen wir uns ein Stück dieses Glücksgefühls zurück, das wir im Herbst 1989 empfunden haben, und gestatten wir uns auch, zuzugeben, dass es eben nicht die Sicht auf den Herbst 1989, auf die Ereignisse und Ergebnisse dieser Zeit gibt. Die Empfindungen, die die Menschen mit dem Herbst 1989 verbinden, sind ganz unterschiedlich: ob sie ängstlich oder mutig waren, ob sie aktiv dabei waren oder staunend zugesehen haben und an der Seite standen, ob sie die DDR als ihren Staat gesehen haben oder eben – wie ich – nicht als ihren Staat gesehen haben. Das ist sehr, sehr individuell und sehr, sehr unterschiedlich."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Lassen wir nicht zu, dass 1989 ein Mythos wird. Denn ein Mythos erinnert nicht nur, sondern er vergisst, und er begradigt. Joachim Gauck hat in einem Interview die Zeit damals mit einem jugendlichen Liebespaar verglichen, das seine Liebessehnsucht stillen will, gar nicht voneinander lassen kann und unbedingt vereinigt werden will, später dann aber einen merkwürdigen Wandel von absoluter Verehrung und Hingabe erlebt hin zu einem Leben miteinander, in dem es plötzlich an der Beziehung arbeiten muss."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Ich finde, das ist ein gutes Gleichnis; denn so geht es auch uns emotional manchmal – in Ost und in West."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Ja, ich konnte mir 1989 nicht vorstellen, wie ein wiedervereintes Deutschland in den 90er-Jahren aussehen würde, wie es in 2015 oder 2019 aussehen würde. Denn ich wusste: Wenn der Kalte Krieg zu Ende geht, dann verändert sich etwas, überall auf der Welt. Die Systeme brechen auseinander; das sind große Bewegungen. Aber wer heute behauptet, er hätte gewusst, wie das aussehen würde, der schwindelt – zumindest ein bisschen oder ganz viel."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Ja, es ist für uns Ostdeutsche – vielleicht – schwieriger, mit dieser offenen, freien, hoch komplizierten Welt heute umzugehen, mit dieser anstrengenden Moderne, mit dem Leben in einer freiheitlichen Moderne. Deshalb haben oder hatten wir keinen schlechteren Charakter. Aber auf dem Gebiet der DDR gab es im Grunde von 1945 bis 1989, 44 Jahre lang, eine Diktatur. Selbstverständlich gewöhnen sich Menschen an Anpassungsleistungen, die sie erbringen müssen, um ihre persönliche Freiheit zu sichern; auch das gehört zur Wahrheit. Immerhin gibt es aber inzwischen nach drei Jahrzehnten viele Generationen überall in der Bundesrepublik, die dies nicht mehr mussten. Deshalb finde ich es gut, dass über 70 Prozent den Einigungsprozess heute positiv sehen und dass sie den Glücksfall der Wiedervereinigung und des Einstürzens der Mauer auch alle gemeinsam positiv sehen."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Ich freue mich auf das 40. Jubiläum in zehn Jahren. Denn da werde ich hingehen, anders als damals, als ich als junge Frau mit einem Diplom in der Hand zwangsverpflichtet werden sollte, am 7. Oktober 1989 zur Feierstunde zu gehen, und gesagt habe: Nein, das mache ich nicht. – Denn diesmal verteidige ich diesen Staat. Diesmal ist es meiner, und es ist meine Demokratie."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Auch ein bisschen Diktatur und ein bisschen solcher Regelungen, wie Sie sie wollen, zerstören diese Freiheit und diese Demokratie. Deshalb werden wir es nicht zulassen, dass wieder Mauern aufgebaut werden."
+                },
+                {
+                  "-klasse": "J_1",
+                  "#text": "Nächste Rednerin ist die Kollegin Linda Teuteberg, FDP."
+                }
+              ],
+              "kommentar": [
+                "(Beifall bei der SPD und der CDU/CSU sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)",
+                "(Beifall bei der SPD, der CDU/CSU, der FDP und dem BÜNDNIS 90/DIE GRÜNEN)",
+                "(Beifall bei der SPD, der CDU/CSU, der FDP, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)",
+                "(Beifall bei der SPD, der CDU/CSU, der FDP und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN)",
+                "(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU und des BÜNDNISSES 90/DIE GRÜNEN)",
+                "(Heiterkeit bei Abgeordneten der SPD)",
+                "(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)",
+                "(Beifall des Abg. Hermann Gröhe [CDU/CSU])",
+                "(Gitta Connemann [CDU/CSU]: Wunderbar!)",
+                "(Anhaltender Beifall bei der SPD – Beifall bei der CDU/CSU, der FDP und dem BÜNDNIS 90/DIE GRÜNEN – Dr. Alice Weidel [AfD]: Was ist denn das für ein Blödsinn?)",
+                "(Beifall bei der FDP)"
+              ],
+              "name": "Präsident Dr. Wolfgang Schäuble:"
+            },
+            {
+              "-id": "ID1912500400",
+              "p": [
+                {
+                  "-klasse": "redner",
+                  "redner": {
+                    "-id": "11004913",
+                    "name": {
+                      "vorname": "Linda",
+                      "nachname": "Teuteberg",
+                      "fraktion": "FDP"
+                    }
+                  },
+                  "#text": "Linda Teuteberg (FDP):"
+                },
+                {
+                  "-klasse": "J_1",
+                  "#text": "Sehr geehrter Herr Präsident! Sehr geehrte Damen und Herren! Freude, Jubel, Erleichterung – das sind die Gefühle dieses Tages, morgen vor 30 Jahren: unglaubliche Freude über die Freiheit, Erleichterung über das Ende von Unfreiheit und Demütigung. Das war ein neues Kapitel deutscher und europäischer Geschichte, welches da aufgeschlagen wurde. Frau Kollegin Budde hat es gerade sehr richtig gesagt: Das war eine Revolution, keine Wende. Wir sollten diesen Sprachgebrauch wirklich nicht übernehmen. Egon Krenz sagte in seiner Antrittsrede am 18. Oktober, damit werde man wieder die „politische und ideologische Offensive“ erlangen. Das Gegenteil war der Fall, meine Damen und Herren."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Dass dieser Begriff – oft ohne böse Absicht – trotzdem so verbreitet ist, liegt offenbar an seiner Kürze. Wir sollten ihn aber aus einem zweiten Grund nicht zulassen: Er suggeriert eine gewisse Neutralität und dass das ein Prozess ist, an dem man unbeteiligt ist, dem man gelassen zusieht. Er vernachlässigt die Rolle jeder und jedes Einzelnen, den Mut, das Gewissen, die Verantwortungsbereitschaft, die damals nötig waren, um die Revolution durchzuführen, meine Damen und Herren."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Deshalb ist es so wichtig, dass wir diesen Revolutionscharakter sehen, trotz und mit seiner lobenswerten Friedlichkeit. Dieser Tag ist Anlass für Trauer, für Dank und für Freude, und zwar für Trauer um all die Menschen, denen Lebenschancen genommen wurden, die mit ihrer Freiheit oder gar ihrem Leben bezahlt haben für dieses System, die nicht den Beruf ergreifen konnten, nicht den Bildungsweg einschlagen konnten, den sie wollten, die gestorben sind auf dem Weg in die Freiheit, die sie gesucht haben. Darüber sollten wir ehrlich trauern und dabei an diese Menschen denken."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Wir haben aber auch allen Grund zum Dank. Wir danken allen, die dazu beigetragen haben, zum Beispiel unsere Nachbarn, vor allem die Polen. Der damalige Papst mit seinen Worten „Fürchtet euch nicht“ und die mutigen Menschen der Bewegung Solidarnosc haben ein Beispiel gegeben, auch für die Menschen in der DDR."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Auch die Ungarn haben ihren Anteil; daran sollten wir heute denken. Dank gilt auch unseren Verbündeten, insbesondere den USA; das wird in diesen Tagen von manchen unterschlagen. Auch denen sind wir zu Dank verpflichtet für die Unterstützung in diesem Prozess."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Ich grüße eine Gruppe von Mitarbeitern des Kongresses, die heute diese Debatte verfolgen."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Schließlich hat auch die KSZE-Schlussakte, auf die sich Menschen in Osteuropa, in der DDR berufen haben, wenn sie ihre Freiheitsrechte geltend machen wollten, dazu beigetragen, die Freiheitsbewegung in Gang zu bringen."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Wir sind unseren Nachbarn und Verbündeten, allen, die mitgewirkt haben, zu Dank verpflichtet. Unser Dank gilt vor allem auch vielen Menschen in der DDR, für ganz unterschiedliches Handeln. Wir danken denen, die Ausreiseanträge gestellt haben und die das Land verlassen haben; denn sie haben die Frage nach Gehen oder Bleiben für alle sichtbar auf die Tagesordnung gehoben. Es war nicht mehr zu verdrängen, dass dieses Land geteilt ist, dass die Menschen eine Abstimmung mit den Füßen durchführen für die Freiheit. Sie haben das sichtbar gemacht, und dafür gilt ihnen unser Dank."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Auch und vor allem denjenigen, die mutig Opposition in der DDR betrieben haben, die dafür viel riskiert haben – das sind oft wenige, die ganz besonderen Mut beweisen –, gilt unser besonderer Dank."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Neben Trauer und Dank haben wir allen Grund zur Freude über die erkämpfte, selbsterrungene Freiheit in unserem Land."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Und, ja, vor der Einheit kam die Freiheit. Das ist richtig und wichtig zu sagen; denn es hätte den 9. November nicht ohne den 9. Oktober gegeben. Zugleich aber muss man doch keinen unnötigen Gegensatz zwischen Einheits- und Freiheitswillen konstruieren. Die allermeisten Ostdeutschen wollten beides. Übrigens hieß es in der Präambel unseres Grundgesetzes, wie es 1989 noch lautete, dass sich das deutsche Volk dieses Grundgesetz gegeben hat, und am Schluss heißt es:"
+                },
+                {
+                  "-klasse": "Z",
+                  "#text": "Es hat auch für jene Deutschen gehandelt, denen mitzuwirken versagt war. Das gesamte deutsche Volk bleibt aufgefordert, in freier Selbstbestimmung die Einheit und Freiheit Deutschlands zu vollenden."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Es brauchte immer mal wieder das Bundesverfassungsgericht, um daran zu erinnern."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Vor 30 Jahren führten diese Verirrungen bei manchen, die nicht mehr so an die deutsche Einheit dachten, dazu, dass sich Hans-Dietrich Genscher von Antje Vollmer sogar vorwerfen lassen musste – übrigens im Deutschen Bundestag –, er hätte mit den Bildern in Prag eine Sogwirkung für DDR-Flüchtlinge erzeugt. Diese Bilder werde man bald vergessen. – Welch ein Irrtum, meine Damen und Herren."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Die Menschen in der DDR waren Deutsche im Sinne des Grundgesetzes. Die beiden deutschen Staaten waren nicht Ausland füreinander, sondern standen in einer ganz besonderen Beziehung."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Liebe Kollegen, diese Revolution war friedlich, und das trotz des Eindrucks der chinesischen Lösung, die viele Menschen noch im Blick hatten. Der Vorteil einer solchen friedlichen, friedfertigen Revolution ist: Es kommt keiner zu Tode, es fließt kein Blut. Es sind allerdings auch hinterher noch alle da. Und das hat Folgen. Deshalb hat der Bundesbeauftragte Jahn recht, wenn er sagt: Ja, auch die Peiniger wurden befreit, auch ihnen wurden Freiheit und Rechtsstaat gegeben. Manchmal hat man in den Jahren nach dem Mauerfall und der Wiedervereinigung von denen den Ausdruck „Siegerjustiz“ gehört. Daran ist wahr, dass Unrechtshandlungen, die eine politische Macht begeht, immer erst nach deren Niedergang justiziabel werden. Aber unser freiheitlicher Rechtsstaat beschränkt sich selbst. Er hält sich an seine Regeln, zum Beispiel ans Rückwirkungsverbot. Er bestraft nur strafrechtlich, was auch zum Zeitpunkt der Tat strafbar war. Diejenigen, die es betrifft, können verdammt froh sein, dass der freiheitliche Rechtsstaat sie so viel besser behandelt hat als sie ihre politischen Gegner in 40 Jahren."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Liebe Kolleginnen und Kollegen, nun könnte man ja meinen, dass dieser zivilisatorische Fortschritt unseres freiheitlichen Rechtsstaats, das Strafrecht nicht politisch zu missbrauchen, anderen nicht zu vergelten, was sie getan haben, bei den Betroffenen zu einer gewissen Demut führt. Aber stattdessen wird es immer dreister, und diese geringe Anzahl von strafrechtlichen Verurteilungen wird als Persilschein benutzt, so wie es heute manche Ministerpräsidenten in Thüringen oder Mecklenburg-Vorpommern tun."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Das ist eine Verhöhnung unseres Rechtsstaates, der sich selbst beschränkt und die politische Aufarbeitung der Politik und der Gesellschaft überlässt."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Liebe Kolleginnen und Kollegen, die Ostdeutschen sind keine homogene Masse, wie das manche glauben machen wollen, die sie politisch vereinnahmen, die das zum Geschäftsmodell machen. Sie brauchen übrigens auch keine Belehrungen, gerade nicht aus der Nachfolgepartei der SED, darüber, wer Held war und wer nicht, oder wer erst den aufrechten Gang lernen musste. Es gab in den 40 Jahren auch Menschen, die konnten schon aufrecht gehen. Sie haben nur einen hohen Preis dafür bezahlt durch die Repressalien der SED."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Ich bin mir sicher, dass die mutigen Menschen, die damals in der DDR Mut bewiesen haben, auch gar keinen Wert darauf legen, von der Linken heute als Helden etikettiert zu werden."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Die Zeiten sind zum Glück vorbei, in denen Sie entschieden haben, wer Held ist in unserem Land."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Ich will noch mit einem Thema hier kurz aufräumen: Immer wenn man ganz klare Worte zum Unrechtsstaat DDR findet, kommt das Thema Blockparteien. Auf diese Nebelkerze ist Verlass. Ich sage dazu nur so viel: Wir sollten nicht Ursache und Wirkung verwechseln. Es war die SED, die politisch Andersdenkenden die Flötentöne beigebracht hat, und zwar mit Gewalt."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Dafür gibt es Beispiele, ich nenne zwei aus Mecklenburg-Vorpommern für Frau Schwesig. Arno Esch zum Beispiel hat mit seinem Leben dafür bezahlt, dass er sich der Gleichschaltung der LDPD durch die SED verweigert hat. Er musste dafür in Moskau sterben. Der spätere FDP-Generalsekretär Karl-Hermann Flach wurde gewarnt und konnte durch Flucht diesem Schicksal entgehen. So ging es auch Menschen aus anderen demokratischen Parteien, die sich der Gleichschaltung widersetzt haben. Daran sollten wir heute auch denken."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Liebe Kolleginnen und Kollegen, lange Teilung braucht auch Zeit zur Heilung. Die Heilung der Wunden und Kränkungen muss man allerdings auch wollen."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Manche streuen dieser Tage Salz in die Wunden. Sie versuchen, Ursache und Wirkung zu verkehren, machen etwa die Treuhand für die Misswirtschaft von 40 Jahren verantwortlich und für die strukturellen Probleme, die dadurch für viele Menschen entstanden sind."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Aber mit langfristigen schwierigen Entwicklungen umzugehen, erfordert auch die Fähigkeit, zu trauern und manchmal über Tragik zu sprechen, ohne immer einen Sündenbock zu suchen."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Mauer und Teilung haben mit allen etwas gemacht. Sie haben Menschen vor schlimme Entscheidungsnotwendigkeiten gestellt, und es ist niemandes eigener Verdienst, in welchem Teil unseres Landes er oder sie geboren ist und ob er vor diese Entscheidungen gestellt wurde oder nicht."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Wir brauchen mit sehr viel mehr Besonnenheit und ohne bestimmte Exzesse im Hinblick auf die DDR so etwas wie 68. Wir sollten darüber reden: Wie war das damals? Da ist übrigens Platz für viele Geschichten und für viele verschiedene Erfahrungen. Aber es ist nicht alles relativ. Die klare Grenzziehung zwischen Demokratie und Diktatur muss gewahrt bleiben. Denn Lebensleistungen von Menschen in der DDR gab es trotz und nicht wegen des politischen Systems. Übrigens sind auch die Täter zu respektieren. Sie haben ihre Menschenwürde, und die erkennt unser Rechtsstaat an. Aber nicht jede Lebensleistung ist von uns gleichermaßen zu würdigen, liebe Kolleginnen und Kollegen."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Wir Freie Demokraten wollen, dass dieser Prozess der inneren Einheit unseres Landes gelingt. Wir sind ins Gelingen verliebt, nicht ins Scheitern. Heute ist es, anders als bei der Entstehung unseres Grundgesetzes, niemandem mehr versagt, mitzuwirken. Das müssen wir jeden Tag wieder neu betonen. Wir sollten dieses Jahr, gerade weil 1989 nicht das Ende der Geschichte war, nutzen, und zwar für eine Offensive für Recht und Freiheit."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Vielen Dank."
+                },
+                {
+                  "-klasse": "J_1",
+                  "#text": "Jetzt erteile ich das Wort dem Abgeordneten Dr. Gregor Gysi, Die Linke."
+                }
+              ],
+              "kommentar": [
+                "(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)",
+                "(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)",
+                "(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)",
+                "(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)",
+                "(Beifall bei der FDP)",
+                "(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU und der SPD)",
+                "(Beifall bei der FDP sowie der Abg. Gitta Connemann [CDU/CSU])",
+                "(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU und der SPD)",
+                "(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)",
+                "(Beifall bei der FDP und der CDU/CSU)",
+                "(Beifall bei der FDP und der CDU/CSU sowie bei Abgeordneten der SPD und der AfD und der Abg. Katrin Göring-Eckardt [BÜNDNIS 90/DIE GRÜNEN])",
+                "(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)",
+                "(Beifall bei der FDP und der CDU/CSU sowie bei Abgeordneten der AfD)",
+                "(Beifall bei der FDP)",
+                "(Beifall bei der FDP, der CDU/CSU und der AfD)",
+                "(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU und der AfD)",
+                "(Claudia Roth [Augsburg] [BÜNDNIS 90/DIE GRÜNEN]: Genau!)",
+                "(Christian Lindner [FDP]: So ist es!)",
+                "(Sylvia Kotting-Uhl [BÜNDNIS 90/DIE GRÜNEN]: Das machen Sie aber gerade!)",
+                "(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)",
+                "(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)",
+                "(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)",
+                "(Beifall bei der LINKEN – Beatrix von Storch [AfD]: Notar!)"
+              ],
+              "name": "Präsident Dr. Wolfgang Schäuble:"
+            },
+            {
+              "-id": "ID1912500500",
+              "p": [
+                {
+                  "-klasse": "redner",
+                  "redner": {
+                    "-id": "11000756",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Gregor",
+                      "nachname": "Gysi",
+                      "fraktion": "DIE LINKE"
+                    }
+                  },
+                  "#text": "Dr. Gregor Gysi (DIE LINKE):"
+                },
+                {
+                  "-klasse": "J_1",
+                  "#text": "Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Morgen feiern wir den 30. Jahrestag des Mauerfalls. Dieser 9. November 1989 ist für viele ein Tag der Freude, des Gedenkens, des Nachdenkens und der Besinnung. So zufällig und irrtümlich wie er zustande kam, so folgerichtig war es, dass der Selbstbefreiungsdrang der Ostdeutschen zum Fall der Mauer führte."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Die DDR war eine geschlossene Gesellschaft. Das Reisen in viele Länder blieb den meisten Menschen verwehrt. Es gab erhebliche Einschränkungen in der Freiheit, der Demokratie, bei der Versorgung mit Waren und Dienstleistungen. Es gab auch staatliches Unrecht. Die Mauer und die tödliche Praxis der Grenzsicherung waren sein gröbster Ausdruck, der auch nicht dadurch zu rechtfertigen war, dass die Mauer die Trennlinie der Systeme markierte und von den Großmächten im Kalten Krieg als gegeben akzeptiert wurde."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Alle Toten dort sind nicht hinnehmbar."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Die Reisefreiheit war deshalb neben der Meinungsfreiheit, der Ablehnung von Zensur und Bevormundung eine zentrale Forderung der Demonstrantinnen und Demonstranten von Plauen über Berlin und Leipzig bis zum 4. November in Berlin. Man muss noch einmal in die Augen der Menschen sehen, die am Abend des 9. November vor 30 Jahren frei und ungehindert aus Ostberlin in den Westteil der Stadt strömten. Man muss sich ihre glückliche Fassungslosigkeit über die friedliche Überwindung der Mauer vor Augen rufen, um die historische Dimension der Leistungen vieler Ostdeutscher vor 30 Jahren zu erkennen."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Diese Leistungen müssen ebenso wie die Leistungen der Ostdeutschen"
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "in den Jahrzehnten zuvor und in den Jahrzehnten danach endlich angemessen gewürdigt werden."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Es ist auch deshalb höchste Zeit, gleiche Löhne"
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "für gleiche Arbeitszeit und gleiche Renten für die gleiche Lebensleistung in Ost und West zu zahlen. Außerdem muss es endlich gemäß Artikel 36 des Grundgesetzes so viele Ostdeutsche in Führungspositionen der Bundesbehörden geben, wie es ihrem Anteil an der Bevölkerung entspricht."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Der Bevölkerungsanteil liegt bei 17 Prozent, der Anteil an den Führungskräften nur bei 1,7 Prozent."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Der Grundstein für die Ereignisse vor 30 Jahren, die später dann zur deutschen Einheit führten, wurde mit den von Gorbatschow eingeleiteten Entwicklungen von Perestroika und Glasnost gelegt. Es ist aber auch an die Rolle von Solidarnosc in Polen, an die Flucht in bundesdeutsche Botschaften und an die Grenzöffnung in Ungarn zu denken. Deshalb muss die Erzählung früher ansetzen als beim Fall der Mauer, auch weil sich mit diesem historischen Tag der Fokus der Akteure – freiwillig oder unfreiwillig – mehr und mehr in Richtung der deutschen Einheit verlagerte. Zuvor ging es um eine Veränderung der DDR. Wie gesagt, es gab in ihr staatliches Unrecht."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Trotzdem lehne ich den Begriff des Unrechtsstaates für die DDR ab,"
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "weil der frühere Generalstaatsanwalt von Hessen Fritz Bauer"
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "diesen Begriff zu Recht für die Nazidiktatur prägte."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Die Bürgerrechtlerinnen und Bürgerrechtler, die Demonstrierenden wollten zumindest bis zum Fall der Mauer die DDR grundsätzlich reformieren, was möglich erschien."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "In einem Unrechtsstaat wie Nazideutschland war dies ausgeschlossen. Er konnte und musste abgeschafft werden."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Wegen der Reichspogromnacht gedenken wir morgen auch der durch die Nazis ermordeten Jüdinnen und Juden."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Den Mauerfall und auch die deutsche Einheit hätte es ohne die Gründung etwa des Neuen Forums, von „Demokratie jetzt!“ und des Demokratischen Aufbruchs,"
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "ohne die Demonstrationen, die in Plauen und Leipzig ihren Anfang und den Menschen die Angst nahmen"
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "und schließlich bei der Demonstration am 4. November 1989 in Berlin ihren Höhepunkt fanden, nicht gegeben."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Ich muss es ganz klar sagen: Die Demonstrierenden in vielen Städten haben erfolgreich für Freiheit und Demokratie in der DDR gekämpft"
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "und die Mauer zu Fall gebracht. Nicht Helmut Kohl und seine Bundesregierung brachten das zustande; es war die Leistung der Ostdeutschen."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Die Bereitschaft der Menschen vor 30 Jahren, bis dahin Unerhörtes einfach zu tun, mit Massendemonstrationen, neuen Parteien und Organisationen das Machtsystem der SED infrage zu stellen, ohne es gewaltsam beseitigen zu wollen, folgte einem urdemokratischen Impuls, der auch den heutigen Verhältnissen durchaus guttäte."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Die Runden Tische zum Beispiel waren ein demokratisches Instrument, dessen wir uns aktiv erinnern sollten bei der Lösung aktueller Probleme."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Die Friedlichkeit hatte zwei Seiten: keine Gewalt durch Demonstrantinnen und Demonstranten und der Verzicht darauf bei den Soldaten, bei der Polizei nicht gleich, aber später auch. Egon Krenz hatte wohl am Abend des 8. Oktober angeordnet, keine Gewalt mehr durch die Polizei anzuwenden. Es bleibt eine beachtliche Leistung, dass während des gesamten Umbruchs kein einziger Schuss fiel,"
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "weder durch sowjetische Streitkräfte in der DDR noch durch die Angehörigen der sogenannten bewaffneten Organe der DDR,"
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "auch und gerade nicht am Abend des Mauerfalls, als an der Grenze keiner so richtig Bescheid wusste und sich Diensthabende entschieden, die Grenze zu öffnen. Beides ist zu würdigen."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Nicht Schwarz-Weiß, sondern das große Dazwischen bestimmt den Lauf der Geschichte."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Die AfD – ich komme ja jetzt zu Ihnen – plakatiert die Wende 2.0 und will angeblich die Wende vollenden. Meine wenigen Damen und vielen Herren von der AfD hier, mit der Wende, mit dem Umbruch, mit der Friedlichen Revolution hatten und haben Sie nicht das Geringste zu tun."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Die Mehrheit der Ostdeutschen – hören Sie zu! – wollte die Mauer zum Einsturz bringen, nicht wie Sie die Errichtung neuer Mauern."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Die Mehrheit wollte ein vereinigtes Europa in Frieden, das Sie zerstören wollen. Die Demonstrierenden wollten Freizügigkeit und Toleranz und nicht wie Sie Hass, nationalen Egoismus, Rassismus und Antisemitismus verbreiten."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Abschottung und Ausgrenzung sind das Gegenteil von dem, wofür die Menschen vor 30 Jahren demonstrierten."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Gerade weil heute an den Grenzen Europas wieder Menschen sterben, die nach Freiheit, Demokratie, einem Leben in Sicherheit und mit einer wirtschaftlichen Perspektive streben, sollten wir uns daran erinnern, dass man mit Mauern und nationalem Egoismus"
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "regelmäßig Probleme nur verschärft und nicht löst."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Außerdem sind Sie von der AfD feige; denn Sie bekämpfen die Schwächsten in der Gesellschaft: die Flüchtlinge. Da lobe ich mir die Linken, die den Mumm haben, sich mit den Stärksten anzulegen."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Ich weiß, was die spätere Einheit Menschen in Ostdeutschland zusätzlich gebracht hat,"
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "zum Beispiel die Sanierung von Städten und Wohnungen, aber ich kenne auch die Fehler, die begangen wurden. Die Einheit hätte – so wie es Gorbatschow vorschlug – unter anderem genutzt werden können, um weder Osteuropa noch Westeuropa zu bleiben. Man hätte neutral und zu dem wesentlichsten Vermittler weltweit bei Konflikten werden können – egal ob es um den Konflikt Israel/Palästina, Russland/Ukraine oder um andere geht. Eine solche Rolle kann man übrigens auch heute trotz der NATO-Mitgliedschaft anstreben. Sie scheint mir den Wünschen der Demonstrierenden vom Herbst 1989 und dem Grundcharakter des Mauerfalls zu entsprechen. Diese Rolle wäre also vielen – auch mir – schon aus historischen Gründen, wenn ich an die Nazidiktatur und den Zweiten Weltkrieg denke, sehr sinnvoll erschienen."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Stattdessen hat sich die Mehrheit im Bundestag entschieden, nicht nur in der NATO zu bleiben, sondern die Soldatinnen und Soldaten der Bundeswehr auch mit allen Konsequenzen weltweit zu entsenden."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Außerdem wäre es vernünftig gewesen, bestimmte Momente aus der DDR wie die höhere Gleichstellung der Geschlechter, die Polikliniken, die Berufsausbildung mit Abitur für das vereinigte Deutschland zu übernehmen,"
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "statt die Strukturen im Osten völlig zu negieren und zum Teil sogar herabzuwürdigen. Das hätte das Selbstbewusstsein der Ostdeutschen gestärkt"
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "und den Westdeutschen ermöglicht, dank des Ostens eine Steigerung ihrer Lebensqualität zu erfahren."
+                },
+                {
+                  "-klasse": "J_1",
+                  "#text": "Herr Kollege Gysi."
+                },
+                {
+                  "-klasse": "redner",
+                  "redner": {
+                    "-id": "11000756",
+                    "name": {
+                      "titel": "Dr.",
+                      "vorname": "Gregor",
+                      "nachname": "Gysi",
+                      "fraktion": "DIE LINKE"
+                    }
+                  },
+                  "#text": "Dr. Gregor Gysi (DIE LINKE):"
+                },
+                {
+                  "-klasse": "J_1",
+                  "#text": "Ich bin sofort fertig, Herr Präsident."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Auf andere Schwächen und Stärken der Einheit werde ich wegen der Begrenzung der Redezeit erst im nächsten Jahr eingehen. – Übrigens: Am 9. November 1918 begann mit der Ausrufung der Republik"
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "die Demokratiegeschichte in Deutschland; auch daran sollten wir denken."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Der Fall der Mauer aber sollte uns alle mahnen, Probleme wirklich zu lösen und nicht zu versuchen, sie mit Mauern durch Einigelung vorübergehend unsichtbar zu machen."
+                },
+                {
+                  "-klasse": "J_1",
+                  "#text": "Nächste Rednerin ist die Fraktionsvorsitzende von Bündnis 90/Die Grünen, Katrin Göring-Eckardt."
+                }
+              ],
+              "kommentar": [
+                "(Mark Hauptmann [CDU/CSU]: Schießbefehl auf eigene Menschen!)",
+                "(Beifall bei der LINKEN)",
+                "(Beatrix von Storch [AfD]: Wer war IM-Notar? – Gegenruf der Abg. Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN]: Nach der Rede haben Sie gar nichts zu melden bei der Debatte! Überhaupt gar nichts!)",
+                "(Lachen der Abg. Dr. Alice Weidel [AfD] – Dr. Alice Weidel [AfD]: Natürlich nicht! – Gegenruf der Abg. Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN]: So viel Hass, Hetze und rechtsextreme Sachen! – Zurufe von der AfD – Gegenruf von der LINKEN: Zuhören! Dann lernen Sie vielleicht noch was!)",
+                "(Beifall bei der LINKEN)",
+                "(Martin Reichardt [AfD]: Was haben Sie da gemacht? Waren Sie im Widerstand?)",
+                "(Beifall bei der LINKEN)",
+                "(Beatrix von Storch [AfD]: Ja, und relativ viele Stasispitzel!)",
+                "(Beifall bei der LINKEN – Zurufe von der CDU/CSU: Pfui! – Dr. Alice Weidel [AfD]: Unglaublich!)",
+                "(Dr. Alice Weidel [AfD]: Dass sich so jemand da vorne hinstellt! Unglaublich! – Gegenruf von der FDP: Sie dürfen doch da auch stehen!)",
+                "(Beifall bei der LINKEN)",
+                "(Beatrix von Storch [AfD]: Und wurden bespitzelt von Stasileuten!)",
+                "(Beifall bei der LINKEN – Beatrix von Storch [AfD]: Dass Sie hier stehen, ist echt eine Schande! – Marian Wendt [CDU/CSU]: Sie haben nichts gelernt! Nichts!)",
+                "(Martin Reichardt [AfD]: Dass Sie sich nicht schämen, dazu zu sprechen!)",
+                "(Marian Wendt [CDU/CSU]: Waren Sie da Gründungsmitglied? Das ist doch Heuchelei!)",
+                "(Zuruf von der AfD: Beleidigung der Mauertoten!)",
+                "(Beifall bei der LINKEN)",
+                "(Beatrix von Storch [AfD]: Gegen Leute wie Sie!)",
+                "(Beifall bei der LINKEN)",
+                "(Beifall bei der LINKEN)",
+                "(Beifall bei der LINKEN)",
+                "(Marian Wendt [CDU/CSU]: Die hatten ihre Truppen schon bereitgestellt!)",
+                "(Beifall bei der LINKEN – Beatrix von Storch [AfD]: Fürs Protokoll: Dass Sie hier sprechen, ist echt eine Schande!)",
+                "(Beifall bei der LINKEN)",
+                "(Beifall bei der LINKEN – Beatrix von Storch [AfD]: Von einem Stasispitzel im Bundestag müssen wir uns so was nicht sagen lassen! – Weiterer Zuruf von der AfD: Aber Sie! – Zuruf von der SPD: Bravo!)",
+                "(Beifall bei der LINKEN und der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)",
+                "(Beifall bei der LINKEN und der SPD sowie bei Abgeordneten der CDU/CSU und des BÜNDNISSES 90/DIE GRÜNEN – Dr. Alice Weidel [AfD]: Von einem Spitzel, von einem Stasispitzel! Lustig!)",
+                "(Dr. Alice Weidel [AfD]: Von einem Stasispitzel! Wie witzig! – Gegenruf der Abg. Katrin Budde [SPD]: Sie haben doch gar keine Ahnung, Frau Weidel! – Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN]: Sie wissen doch von nichts, Frau Weidel! Sie wohnen doch in der Schweiz! – Lachen der Abg. Dr. Alice Weidel [AfD])",
+                "(Dr. Alice Weidel [AfD]: Unglaublich! Von einem Spitzel! -Weiterer Zuruf von der AfD: Mauerbauer!)",
+                "(Beifall bei der LINKEN sowie bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN)",
+                "(Beifall bei der LINKEN – Beatrix von Storch [AfD]: Als Mauerschützen-Partei, die sie sind!)",
+                "(Beatrix von Storch [AfD]: Da steht die Mauerschützen-Partei und verhöhnt die ganzen Opfer!)",
+                "(Beifall bei der LINKEN)",
+                "(Martin Reichardt [AfD]: Autobahn! Autobahn!)",
+                "(Beatrix von Storch [AfD]: Und das grüne Ampelmännchen!)",
+                "(Beatrix von Storch [AfD]: Ja, Sie sind am Ende!)",
+                "(Dr. Alice Weidel [AfD]: Hören Sie doch bitte auf!)",
+                "(Beifall bei der LINKEN sowie bei Abgeordneten der SPD)",
+                "(Beifall bei der LINKEN sowie der Abg. Sylvia Kotting-Uhl [BÜNDNIS 90/DIE GRÜNEN] – Beatrix von Storch [AfD]: Was für eine Schande!)",
+                "(Beifall beim BÜNDNIS 90/DIE GRÜNEN)"
+              ],
+              "name": [
+                "Präsident Dr. Wolfgang Schäuble:",
+                "Präsident Dr. Wolfgang Schäuble:"
+              ]
+            },
+            {
+              "-id": "ID1912500600",
+              "p": [
+                {
+                  "-klasse": "redner",
+                  "redner": {
+                    "-id": "11003132",
+                    "name": {
+                      "vorname": "Katrin",
+                      "nachname": "Göring-Eckardt",
+                      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+                    }
+                  },
+                  "#text": "Katrin Göring-Eckardt (BÜNDNIS 90/DIE GRÜNEN):"
+                },
+                {
+                  "-klasse": "J_1",
+                  "#text": "Herr Präsident! Liebe Kolleginnen und Kollegen! Meine großartigste und eindrucksvollste Erinnerung an den Herbst 1989 währte eigentlich nur einen einzigen Augenblick. Bei allen, die damals zu den großen Demonstrationen gingen, in Plauen, in Dresden, in Leipzig, in Berlin, überall, gab es Angst und die gleiche Frage: Was wird werden? Wird es friedlich bleiben? – Mit der Kerze in der Hand und mitten unter den vielen anderen Menschen kam dann der Moment, in dem sich die Angst auflöste, dieser Moment, der einem vertrauten Gefühl von heute und einem völlig unvertrauten Gefühl von damals Platz machte: Freiheit."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Diese Freiheit verdanken wir denjenigen, die damals, im Herbst 1989, auf der Straße waren. Wir verdanken sie aber mindestens genauso sehr denjenigen, die davor wirklich viel riskiert haben, nämlich ihre Freiheit, ihr Leben: Marianne Birthler, die Poppes, Bärbel Bohley, Werner Schulz. All diesen Menschen, die wirklich viel riskiert haben, gebührt unser herzlicher Dank."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Die Freiheit, frei zu sein, ohne Angst, ohne totale Kontrolle des Staates über das eigene Leben, ohne die Erfahrung des Unrechtsstaates – plötzlich erscheint alles möglich, alles machbar: Frei denken, frei sprechen, frei sein. Das, was heute so selbstverständlich ist, war damals für uns das Größte. Wer Angst hat und sich von ihr leiten lässt – das weiß ich seit 1989 –, kann nicht frei sein. Ja, sich sorgen ist menschlich, sich fürchten vor Veränderungen, die nicht nur Gutes bringen – Globalisierung, Digitalisierung, künstliche Intelligenz, aber auch Klimakrise, Migration, Sicherheit –, das ist normal. Aber wer ängstlich ist, ist ausgeliefert. Wer Angst überwindet, kann handeln und gestalten. Der Auszug aus der Angst hat die Friedliche Revolution möglich gemacht. Deswegen: Angst, meine Damen und Herren, kann niemals Leitidee von Politik sein."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Die Freiheit von etwas, von Zwang, Kontrolle, Überwachung, ist immer auch die Freiheit zu etwas, nämlich Verantwortung zu übernehmen, sich einzubringen, mitzumachen. Mutig zu sein und Zukunft zu gestalten, es nicht anderen zu überlassen, die es irgendwie schon richten werden, und vor allem nicht den Rattenfängern mit den einfachen Antworten hinterherzulaufen, das ist Freiheit."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Das ist übrigens bei vielen Veränderungen nicht immer leicht gewesen, auch nicht nach 1990. Dass viele heute über die Neonazis in den 90er-Jahren sprechen, über die Baseballschlägerjahre, heißt eben auch: Diese Freiheit war und ist in unserem Gemeinwesen auch schon damals, schon in den 90er-Jahren, immer wieder bedroht worden. Auch darüber müssen wir sprechen, wenn wir über diesen 9. November reden."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Meine Damen und Herren, Freiheit ist eine Zumutung. Sie mutet uns zu, damit auch zu scheitern und Tiefschläge einzustecken. Hinfallen, aufstehen, trotzdem weitermachen: Viele Ostdeutsche haben diese Zumutung der Freiheit nach der Wiedervereinigung selbst erlebt. Millionen von Menschen haben in kürzester Zeit Veränderungen erfahren, positiv wie negativ, im Grunde genommen genug für drei Leben. Es ist ein guter Moment, sich wieder füreinander zu interessieren, über die gemeinsam gemachten Erfahrungen zu reden, zu fragen: Wie können wir für die Veränderungen, die vor uns liegen, die Erfahrungen der Ostdeutschen der letzten 30 Jahre eigentlich nutzen? Das, was in Sachsen und Brandenburg, in Mecklenburg-Vorpommern und Thüringen und in Sachsen-Anhalt durchlebt wurde in den letzten 30 Jahren, diese Erfahrung ist ein Schatz, und sie ist zugleich eine Chance. Sie heute zu nutzen, das könnte uns, das würde uns starkmachen für viele Veränderungen, die vor uns liegen."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Aber nicht nur der Osten hat sich verändert. Er hat auch im Westen Spuren hinterlassen. Und ich rede nicht von Kleinigkeiten wie dem Ampelmännchen und dem grünen Pfeil und auch nicht von ein paar Kirchenliedern, die es ins gesamtdeutsche Gesangbuch geschafft haben. Kindertagesstätten und Ganztagsbetreuung sind heute überall selbstverständlich. Nationalparks und Biosphärenreservate hat der Osten als Naturerbe mit in die Vereinigung gebracht. Der § 175 StGB, der Homosexualität bestrafte, wurde später endlich auch im gesamten Deutschland abgeschafft."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Die Spätis übrigens sind eine ostdeutsche Erfindung gewesen."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Die nach 1990 eingegangenen Polikliniken tauchen heute als Medizinische Versorgungszentren überall wieder auf."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Meine Damen und Herren, ich glaube, es ist gut, auch diese Erinnerungen heute zu benennen."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Wir sind ein größeres, aber wir sind eben auch ein vielfältigeres Land geworden, und darauf können wir gemeinsam stolz sein. Aber diese Vielfalt wird uns eben auch zugemutet. Wir müssen die Freiheit anderer ertragen – das gehört dazu –, deren Meinungen, auch wenn wir sie unerträglich finden, sogar Ihre Reden hier – auch heute wieder – von der AfD. Aber das Verrückte ist doch: Sie glauben, Meinungsfreiheit hieße Widerspruchsfreiheit. Sie können sagen, was Sie wollen, auf den Marktplätzen, im öffentlich-rechtlichen Fernsehen, im Netz, sogar hier im Parlament, überall. Nur müssen Sie auch ertragen, dass wir mit unserer freien Rede antworten. Sie müssen unsere Argumente anhören, und Sie müssen unsere Freiheit, Ihnen klar zu sagen, was Sie tun und wie Sie versuchen, dieses Land zu spalten, akzeptieren. Sie müssen aushalten, dass wir Ihren Hass klar benennen, dass wir Ihrer Menschenverachtung die Würde jedes einzelnen Menschen entgegenstellen, meine Damen und Herren von der AfD."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Sie müssen ertragen, dass wir auf Ihren Rassismus mit Zusammenhalt antworten und dass wir Ihrem Toben gegen selbstbewusste, gleichberechtigte Frauen mit einem kämpferischen und fröhlichen Feminismus begegnen, meine Damen und Herren."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Warum sage ich das heute? Ich sage das heute, weil ich tatsächlich vor 30 Jahren auf der Straße war und dafür gekämpft habe – anders als Herr Gauland und Herr Höcke und Herr Kalbitz – und weil ich weiß: Freiheit fordert von uns Respekt vor den Andersdenkenden, Zurückhaltung in der Auseinandersetzung."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Sie fordert Anstand von uns. Freiheit ist unbequem. Und dennoch, meine Damen und Herren: Ich würde jeden Tag wieder für sie auf die Straße gehen. Glauben Sie nur eines nicht: Glauben Sie bei all Ihren Versuchen, Angst zu schüren, nicht,"
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "dass diejenigen, die für Freiheit und Demokratie stehen, die dafür jeden Tag kämpfen, sich auch nur eine Sekunde einschüchtern lassen von Ihrem Toben, von Ihren Angriffen auf die Freiheit und auf die Demokratie; denn sie ist stärker."
+                },
+                {
+                  "-klasse": "J_1",
+                  "#text": "Nächster Redner ist der Kollege Alexander Dobrindt, CDU/CSU."
+                }
+              ],
+              "kommentar": [
+                "(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU)",
+                "(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU)",
+                "(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU)",
+                "(Beifall beim BÜNDNIS 90/DIE GRÜNEN)",
+                "(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie der Abg. Katrin Budde [SPD])",
+                "(Beifall der Abg. Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN] und Katrin Budde [SPD])",
+                "(Christian Lindner [FDP]: Genau! Und hier in Berlin werden sie jetzt eingeschränkt von der Linken, von den Grünen und von der SPD!)",
+                "(Beifall beim BÜNDNIS 90/DIE GRÜNEN)",
+                "(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie der Abg. Katrin Budde [SPD])",
+                "(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der LINKEN)",
+                "(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der LINKEN – Beatrix von Storch [AfD]: Und Männer und Diverse!)",
+                "(Widerspruch bei der AfD)",
+                "(Leif-Erik Holm [AfD]: Wer schürt denn hier Ängste?)",
+                "(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der LINKEN sowie des Abg. Hermann Gröhe [CDU/CSU])",
+                "(Beifall bei der CDU/CSU)"
+              ],
+              "name": "Präsident Dr. Wolfgang Schäuble:"
+            },
+            {
+              "-id": "ID1912500700",
+              "p": [
+                {
+                  "-klasse": "redner",
+                  "redner": {
+                    "-id": "11003516",
+                    "name": {
+                      "vorname": "Alexander",
+                      "nachname": "Dobrindt",
+                      "fraktion": "CDU/CSU"
+                    }
+                  },
+                  "#text": "Alexander Dobrindt (CDU/CSU):"
+                },
+                {
+                  "-klasse": "J_1",
+                  "#text": "Herr Präsident! Sehr geehrte Damen und Herren! Liebe Kolleginnen und Kollegen! Die Bilder, die wir alle vor Augen haben, die tanzenden Frauen und Männer auf der Berliner Mauer, die sich umarmenden Menschen, die den größten Glücksmoment der deutschen Geschichte so miterlebt haben, meine Damen und Herren, das sind diejenigen, derer wir heute gedenken, mit denen wir heute feiern. Der Mut der Demonstranten in Leipzig, in Berlin und anderen ostdeutschen Städten, der Aufstand der vielen gegen das Unrechtsregime der wenigen, mit Worten statt Waffen, mit Gebeten statt Gewalt – das war der größte Glücksmoment und ein Segen für die deutsche Geschichte, meine Damen und Herren."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Gleichzeitig wehren wir uns entschieden gegen alle Versuche, die Geschichte umzuinterpretieren und ins Gegenteil zu verkehren. Deswegen sage ich auch hier sehr deutlich: „Wir sind das Volk“, das war ein Satz, der Mauern eingerissen hat und zusammengeführt hat, und wir dürfen nicht akzeptieren, dass er missbraucht wird und wieder neue Mauern errichten sowie spalten soll. Das sind wir der Bürgerrechtsbewegung schuldig, meine Damen und Herren."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Zur historischen Betrachtung gehört natürlich auch dazu, dass nicht alle im Westen die Wiedervereinigung so intensiv begleitet haben oder gar daran geglaubt haben. Den Versuch der Uminterpretation Deutschlands in eine Nation, zwei Staaten, den es auch gegeben hat, den haben wir nie mitgemacht, den haben wir abgelehnt. Gegen die Festschreibung der Teilung haben wir uns immer gewehrt. Es waren andere, die gesagt haben, dass das verfassungsrechtliche Wiedervereinigungsgebot ein Unglück für das deutsche Volk sei. Was für eine grandiose Fehleinschätzung, meine Damen und Herren!"
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Liebe Kolleginnen und Kollegen, neben vielen Mutigen auf der Straße, neben unseren Nachbarn in Europa, die anfangs ja auch mit Bedenken, aber trotzdem mit Freude die Entwicklungen zur Wiedervereinigung begleitet haben, war es auch Michail Gorbatschow in Moskau und waren es auch die Vereinigten Staaten von Amerika, die die Zeichen der Zeit erkannt und die Wiedervereinigung ermöglicht haben. Und deswegen, um es klar zu sagen: Die deutsche Einheit war nicht nur ein Geschenk Europas an Deutschland, sie war auch ein Geschenk der Vereinigten Staaten von Amerika an Deutschland."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Man sollte Jubiläen ja nicht nur feiern, sondern auch realpolitisch die richtigen Schlüsse daraus ziehen. Die Botschaft von 1949 hieß: Nie wieder Faschismus! Die Lehre von 1989 heißt: Nie wieder Kommunismus!"
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Deswegen, liebe Kolleginnen und Kollegen, bekämpfen wir die Extremisten außerhalb und innerhalb der Parlamente."
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "Wir treten dabei übrigens auch den Geschichtsvergessenen und den Relativierern entschlossen entgegen. Denjenigen, die behaupten, „die DDR sei das friedfertigste und menschenfreundlichste Gemeinwesen der deutschen Geschichte gewesen“;"
+                },
+                {
+                  "-klasse": "O",
+                  "#text": "denjenigen, die behaupten, es habe nie einen Schießbefehl gegeben, und denjenigen, die behaupten, die DDR sei kein Unrechtsstaat gewesen, denen sage ich klar, meine Damen und Herren: Der Begriff „Unrechtsstaat“ relativiert nicht die Lebensleistung der Ostdeutschen. Er wertschätzt und respektiert die Leistung derjenigen, die diesem Unrechtsregime entgegengetreten sind, es überwunden haben, es zu Fall gebracht haben."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Sehr geehrter Herr Gysi, wer die Freiheitskämpfer von 1989 wirklich ehren will, der muss auch das Verbrecherregime beim Namen nennen, das sie bekämpft haben."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Wir alle sind heute die Erben der Einheit. Jeder weiß, dass Erben leichter ist als Erarbeiten. Deswegen – auch das ist von Bedeutung – ist dieses Erbe ein Auftrag. Dieses Erbe ist der Auftrag, die Einheit zu bewahren. Die Einheit unseres Landes ist nicht gesetzt, sie muss immer wieder neu erarbeitet werden. Das ist der Auftrag auch heute."
+                },
+                {
+                  "-klasse": "J",
+                  "#text": "Danke schön."
+                },
+                {
+                  "-klasse": "J_1",
+                  "#text": "Leif-Erik Holm, AfD, ist der nächste Redner."
+                }
+              ],
+              "kommentar": [
+                "(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)",
+                "(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD, der FDP und der LINKEN)",
+                "(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)",
+                "(Beifall bei der CDU/CSU sowie bei Abgeordneten der AfD und der FDP)",
+                "(Beifall bei Abgeordneten der CDU/CSU, der AfD und der FDP)",
+                "(Beifall bei der CDU/CSU und der FDP sowie bei Abgeordneten der AfD)",
+                "(Lachen des Abg. Christian Lindner [FDP])",
+                "(Beifall bei der CDU/CSU, der AfD und der FDP)",
+                "(Beifall bei der CDU/CSU, der AfD und der FDP)",
+                "(Beifall bei der CDU/CSU sowie bei Abgeordneten der FDP)",
+                "(Beifall bei der AfD)"
+              ],
+              "name": "Präsident Dr. Wolfgang Schäuble:"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
